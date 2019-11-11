@@ -1,11 +1,11 @@
 #EXTM3U name=“생방송-일산”
-#EXTINF:-1,SBS
+#EXTINF:-1 tvg-name="SBS" group-title="HD채널",SBS
 http://1.244.176.6:9981/stream/channelid/1897415383
-#EXTINF:-1,KBS2
+#EXTINF:-1 tvg-name="KBS2" group-title="HD채널",KBS2
 http://1.244.176.6:9981/stream/channelid/128798532
-#EXTINF:-1,KBS1
+#EXTINF:-1 tvg-name="KBS1" group-title="HD채널",KBS1
 http://1.244.176.6:9981/stream/channelid/785092464
-#EXTINF:-1,MBC
+#EXTINF:-1 tvg-name="MBC" group-title="HD채널",MBC
 http://1.244.176.6:9981/stream/channelid/615658509
 #EXTINF:-1,EBS
 http://1.244.176.6:9981/stream/channelid/1443386785
