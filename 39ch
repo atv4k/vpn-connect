@@ -1,4 +1,4 @@
-#EXTM3U name=“한국방송{일산}”
+#EXTM3U name=“생방송-일산”
 #EXTINF:-1,SBS
 http://1.244.176.6:9981/stream/channelid/1897415383
 #EXTINF:-1,KBS2
