@@ -1,920 +1,910 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="KBS1" group-title="생방송(일산)",KBS1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",KBS1
 http://1.244.176.6:9981/stream/channelid/785092464
-#EXTINF:-1 tvg-name="KBS2" group-title="생방송(일산)",KBS2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",KBS2
 http://1.244.176.6:9981/stream/channelid/128798532
-#EXTINF:-1 tvg-name="SBS" group-title="생방송(일산)",SBS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",SBS
 http://1.244.176.6:9981/stream/channelid/1897415383
-#EXTINF:-1 tvg-name="MBC" group-title="생방송(일산)",MBC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",MBC
 http://1.244.176.6:9981/stream/channelid/615658509
-#EXTINF:-1 tvg-name="tvN" group-title="생방송(일산)",tvN
+#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="생방송(일산)",tvN
 http://1.244.176.6:9981/stream/channelid/107998046
-#EXTINF:-1 tvg-name="OCN" group-title="생방송(일산)",OCN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",OCN
 http://1.244.176.6:9981/stream/channelid/1701308724
-#EXTINF:-1 tvg-name="CGV" group-title="생방송(일산)",채널CGV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",채널CGV
 http://1.244.176.6:9981/stream/channelid/316613918
-#EXTINF:-1 tvg-name="TV CHOSUN" group-title="생방송(일산)",TV조선
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",TV조선
 http://1.244.176.6:9981/stream/channelid/1402023867
-#EXTINF:-1 tvg-name="Mnet" group-title="생방송(일산)",Mnet
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",Mnet
 http://1.244.176.6:9981/stream/channelid/16957608
-#EXTINF:-1 tvg-name="YTN" group-title="생방송(일산)",YTN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",YTN
 http://1.244.176.6:9981/stream/channelid/162123830
-#EXTINF:-1 tvg-name="JTBC" group-title="생방송(일산)",JTBC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",JTBC
 http://1.244.176.6:9981/stream/channelid/1541302304
-#EXTINF:-1 group-title="생방송(일산)",JTBC2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",JTBC2
 http://1.244.176.6:9981/stream/channelid/1911746500
-#EXTINF:-1 tvg-name="EBS" group-title="생방송(일산)",EBS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",EBS
 http://1.244.176.6:9981/stream/channelid/1443386785
-#EXTINF:-1 group-title="생방송(일산)",EBS2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",EBS2
 http://1.244.176.6:9981/stream/channelid/104967667
-#EXTINF:-1 group-title="생방송(일산)",O tvN
+#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="생방송(일산)",O tvN
 http://1.244.176.6:9981/stream/channelid/376415281
-#EXTINF:-1 group-title="생방송(일산)",XtvN
+#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="생방송(일산)",XtvN
 http://1.244.176.6:9981/stream/channelid/1173057516
-#EXTINF:-1 group-title="생방송(일산)",MBC Every1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",MBC Every1
 http://1.244.176.6:9981/stream/channelid/1170207033
-#EXTINF:-1 group-title="생방송(일산)",KBS W
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",KBS W
 http://1.244.176.6:9981/stream/channelid/681774910
-#EXTINF:-1 group-title="생방송(일산)",SBS funE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",SBS funE
 http://1.244.176.6:9981/stream/channelid/983522178
-#EXTINF:-1 group-title="생방송(일산)",SBS Plus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",SBS Plus
 http://1.244.176.6:9981/stream/channelid/568739771
-#EXTINF:-1 group-title="생방송(일산)",KBS JOY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",KBS JOY
 http://1.244.176.6:9981/stream/channelid/519823569
-#EXTINF:-1 group-title="생방송(일산)",SBS MTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",SBS MTV
 http://1.244.176.6:9981/stream/channelid/199359483
-#EXTINF:-1 tvg-name="KBS DRAMA" group-title="생방송(일산)",KBS DRAMA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",KBS DRAMA
 http://1.244.176.6:9981/stream/channelid/1633642825
-#EXTINF:-1 group-title="생방송(일산)",니켈로디언
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",니켈로디언
 http://1.244.176.6:9981/stream/channelid/3885219
-#EXTINF:-1 group-title="생방송(일산)",디즈니주니어
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",디즈니주니어
 http://1.244.176.6:9981/stream/channelid/233506495
-#EXTINF:-1 group-title="생방송(일산)",Disney Channel
+#EXTINF:-1 tvg-id="6041" tvg-name="Disney" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png" group-title="생방송(일산)",Disney Channel
 http://1.244.176.6:9981/stream/channelid/1364790193
-#EXTINF:-1 group-title="생방송(일산)",Tooniverse
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",Tooniverse
 http://1.244.176.6:9981/stream/channelid/940759488
-#EXTINF:-1 group-title="생방송(일산)",애니박스
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",애니박스
 http://1.244.176.6:9981/stream/channelid/919527574
-#EXTINF:-1 group-title="생방송(일산)",애니플러스
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",애니플러스
 http://1.244.176.6:9981/stream/channelid/1606509923
-#EXTINF:-1 group-title="생방송(일산)",애니원
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",애니원
 http://1.244.176.6:9981/stream/channelid/1273715263
-#EXTINF:-1 group-title="생방송(일산)",ANIMAX
+#EXTINF:-1 tvg-id="7238" tvg-name="Animax" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="생방송(일산)",ANIMAX
 http://1.244.176.6:9981/stream/channelid/2018783345
-#EXTINF:-1 group-title="생방송(일산)",KBS kids
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",KBS kids
 http://1.244.176.6:9981/stream/channelid/1743778348
-#EXTINF:-1 group-title="생방송(일산)",EBS kids
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",EBS kids
 http://1.244.176.6:9981/stream/channelid/1630163166
-#EXTINF:-1 group-title="생방송(일산)",대교 어린이TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",대교 어린이TV
 http://1.244.176.6:9981/stream/channelid/614676835
-#EXTINF:-1 group-title="생방송(일산)",Baby TV
+#EXTINF:-1 tvg-id="708" tvg-name="BabyTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyTV.png" group-title="생방송(일산)",Baby TV
 http://1.244.176.6:9981/stream/channelid/409221426
-#EXTINF:-1 group-title="생방송(일산)",슈퍼액션
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",슈퍼액션
 http://1.244.176.6:9981/stream/channelid/1090555968
-#EXTINF:-1 group-title="생방송(일산)",FOX
+#EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="생방송(일산)",FOX
 http://1.244.176.6:9981/stream/channelid/1976742071
-#EXTINF:-1 group-title="생방송(일산)",채널차이나
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",채널차이나
 http://1.244.176.6:9981/stream/channelid/1202757007
-#EXTINF:-1 group-title="생방송(일산)",mplex
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",mplex
 http://1.244.176.6:9981/stream/channelid/1711476292
 
-#EXTINF:-1 tvg-name="国家地理频道" group-title="지리과학",国家地理HD
+#EXTINF:-1 tvg-id="" tvg-name="国家地理频道" tvg-logo="" group-title="지리과학",国家地理HD
 http://pili-live-hdl.qhmywl.com/dsdtv/1b4017a457de80eec599895ec807e124.flv
-#EXTINF:-1 group-title="지리과학",国家地理野生
+#EXTINF:-1 tvg-id="427" tvg-name="国家地理野生频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png" group-title="지리과학",国家地理野生
 http://pili-live-hdl.qhmywl.com/dsdtv/a4540237835700ece1fc1e54ce826125.flv
-#EXTINF:-1 group-title="지리과학",国家地理悠人
+#EXTINF:-1 tvg-id="283" tvg-name="国家地理悠人频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeopeople.png" group-title="지리과학",国家地理悠人
 http://pili-live-hdl.qhmywl.com/dsdtv/0293b493509468a0a896adea05ad5e30.flv
-#EXTINF:-1 tvg-name=“DiscoveryAsia” group-title="지리과학",Discovery Asia
+#EXTINF:-1 tvg-id="6166" tvg-name="DiscoveryAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png" group-title="지리과학",Discovery Asia
 http://pili-live-hdl.qhmywl.com/dsdtv/f325e0ce8ddf55c2df916b6f2bc0e07c.flv
-#EXTINF:-1 group-title="지리과학",Discovery科学[HD]
+#EXTINF:-1 tvg-id="6165" tvg-name="Discovery科学" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery科学.png" group-title="지리과학",Discovery科学[HD]
 http://pili-live-hdl.qhmywl.com/dsdtv/f82bcb85f1a67e5b4754f7be0661dc72.flv
-#EXTINF:-1 group-title="지리과학",Discovery[HD]
+#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="지리과학",Discovery[HD]
 http://pili-live-hdl.qhmywl.com/dsdtv/ef2748398207873cae12b151ae78b0af.flv
-#EXTINF:-1 group-title="지리과학",BBC earth
+#EXTINF:-1 tvg-id="6189" tvg-name="BBCEarth" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCEarth.png" group-title="지리과학",BBC earth
 http://pili-live-hdl.qhmywl.com/dsdtv/f7146ac8e65cb75112431f87ddcea22e.flv
-#EXTINF:-1 group-title="지리과학",动物星球[HD]
+#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="지리과학",动物星球[HD]
 http://pili-live-hdl.qhmywl.com/dsdtv/eb7d8081fb5400bb7bfa08c8bcd8c45d.flv
-#EXTINF:-1 group-title="지리과학",美食星球
+#EXTINF:-1 tvg-id="7216" tvg-name="美食星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fooldplanet.png" group-title="지리과학",美食星球
 http://pili-live-hdl.qhmywl.com/dsdtv/7f2e2b78b85222886ccb3792c905408e.flv
-#EXTINF:-1 group-title="지리과학",亚洲美食
+#EXTINF:-1 tvg-id="6169" tvg-name="亚洲美食频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/afc.png" group-title="지리과학",亚洲美食
 http://pili-live-hdl.qhmywl.com/dsdtv/13e17ff9d96096b87e7902d77452ae76.flv
 
-#EXTINF:-1 group-title="음악",MTV Live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="음악",MTV Live
 http://pili-live-hdl.qhmywl.com/dsdtv/116911efa30e70c9cf64ea9a0e990a05.flv
-#EXTINF:-1 group-title="음악",Channel V
+#EXTINF:-1 tvg-id="527" tvg-name="CHANNEL[V]" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="음악",Channel V
 http://pili-live-hdl.qhmywl.com/dsdtv/c8ade260941e368acfdb110a04811b3e.flv
-#EXTINF:-1 group-title="음악",靖天育乐
+#EXTINF:-1 tvg-id="6151" tvg-name="靖天育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天育乐.png" group-title="음악",靖天育乐
 http://pili-live-hdl.qhmywl.com/dsdtv/b4b4eb536ffc346864d2dcc03adedd85.flv
-#EXTINF:-1 group-title="음악",靖天欢乐
+#EXTINF:-1 tvg-id="6150" tvg-name="靖天欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天欢乐.png" group-title="음악",靖天欢乐
 http://pili-live-hdl.qhmywl.com/dsdtv/4da43dff7cd731ffb9bbe9a85b029536.flv
-#EXTINF:-1 group-title="음악",靖天日本
+#EXTINF:-1 tvg-id="6157" tvg-name="靖天日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天日本.png" group-title="음악",靖天日本
 http://pili-live-hdl.qhmywl.com/dsdtv/031b3e399e9530310abc135a0b19a8ac.flv
-#EXTINF:-1 group-title="음악",卫视合家欢
+#EXTINF:-1 tvg-id="6125" tvg-name="卫视合家欢" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarWorld.png" group-title="음악",卫视合家欢
 http://pili-live-hdl.qhmywl.com/dsdtv/277056149034cc5fb133537bc411c2c9.flv
-#EXTINF:-1 group-title="음악",八大第一[HD]
+#EXTINF:-1 tvg-id="6045" tvg-name="八大第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png" group-title="음악",八大第一[HD]
 http://pili-live-hdl.qhmywl.com/dsdtv/5e147a8d04ab43725d40e72fd7169952.flv
-#EXTINF:-1 group-title="음악",八大娱乐[HD]
+#EXTINF:-1 tvg-id="6133" tvg-name="八大娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVEntertainment.png" group-title="음악",八大娱乐[HD]
 http://pili-live-hdl.qhmywl.com/dsdtv/31c5b2c0fa7ac37b2e1447befb076d08.flv
-#EXTINF:-1 group-title="음악",NHK[HD]
+#EXTINF:-1 tvg-id="6113" tvg-name="NHK" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" group-title="음악",NHK[HD]
 http://pili-live-hdl.qhmywl.com/dsdtv/6c2713799277ea6ea2d3bfd0d4c31f88.flv
-#EXTINF:-1 group-title="음악",高点育乐[HD]
+#EXTINF:-1 tvg-id="6130" tvg-name="高点育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TOPTV2.png" group-title="음악",高点育乐[HD]
 http://pili-live-hdl.qhmywl.com/dsdtv/ab3024fd5d5b0e84cbcd0bc0085cf043.flv
-#EXTINF:-1 group-title="음악",TVBS欢乐台[HD]
+#EXTINF:-1 tvg-id="6060" tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" group-title="음악",TVBS欢乐台[HD]
 http://pili-live-hdl.qhmywl.com/dsdtv/5e81e3b3e2d8b887db0bc2976558c7ea.flv
-#EXTINF:-1 group-title="음악",纬来育乐[HD]
+#EXTINF:-1 tvg-id="6088" tvg-name="纬来育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" group-title="음악",纬来育乐[HD]
 http://pili-live-hdl.qhmywl.com/dsdtv/5cd65f73313b022253084c489a6705c8.flv
-#EXTINF:-1 group-title="음악",中天娱乐[HD]
+#EXTINF:-1 tvg-id="6057" tvg-name="中天娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="음악",中天娱乐[HD]
 http://pili-live-hdl.qhmywl.com/dsdtv/25ea449d554a16ec584e82d039065e5f.flv
-#EXTINF:-1 group-title="음악",东森超视[HD]
+#EXTINF:-1 tvg-id="6051" tvg-name="东森超视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png" group-title="음악",东森超视[HD]
 http://pili-live-hdl.qhmywl.com/dsdtv/47d46d26bba55dd674454ad46c569ffa.flv
-#EXTINF:-1 group-title="음악",韩国娱乐台
+#EXTINF:-1 tvg-id="6161" tvg-name="韩国娱乐台KMTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/KMTV.png" group-title="음악",韩国娱乐台
 http://pili-live-hdl.qhmywl.com/dsdtv/8ae61414f7e2972598956105e2e9969d.flv
-#EXTINF:-1 group-title="음악",星卫娱乐
+#EXTINF:-1 tvg-id="7203" tvg-name="星卫娱乐" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmovieyule.png" group-title="음악",星卫娱乐
 http://pili-live-hdl.qhmywl.com/dsdtv/4c3c2a7fe5ffc33e45bca04f983f02b0.flv
 
-
-#EXTINF:-1 group-title="뉴스",香港有线新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="뉴스",香港有线新闻
 http://pili-live-hdl.qhmywl.com/dsdtv/d6d6eab225f541869b2657861f0e94d6.flv
-#EXTINF:-1 group-title="뉴스",中天新闻[HD]
+#EXTINF:-1 tvg-id="6070" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="뉴스",中天新闻[HD]
 http://pili-live-hdl.qhmywl.com/dsdtv/e1a397539e76f45bbbf39d1467024aa3.flv
-#EXTINF:-1 group-title="뉴스",东森新闻[HD]
+#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="뉴스",东森新闻[HD]
 http://pili-live-hdl.qhmywl.com/dsdtv/b237f97b0e9e21e88e0bdaae40730332.flv
-#EXTINF:-1 group-title="뉴스",非凡新闻[HD]
+#EXTINF:-1 tvg-id="6076" tvg-name="非凡新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" group-title="뉴스",非凡新闻[HD]
 http://pili-live-hdl.qhmywl.com/dsdtv/408a2834f703f2162d0d5b5789344c39.flv
-#EXTINF:-1 group-title="뉴스",中视新闻[HD]
+#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="뉴스",中视新闻[HD]
 http://pili-live-hdl.qhmywl.com/dsdtv/cf4d66edc142b2f0cc8c71bca56b2268.flv
-#EXTINF:-1 group-title="뉴스",新加坡亚洲新闻台
+#EXTINF:-1 tvg-id="6139" tvg-name="ChannelNewsAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" group-title="뉴스",新加坡亚洲新闻台
 http://pili-live-hdl.qhmywl.com/dsdtv/1aab6cf57296bdefc6f4bea94702782a.flv
-#EXTINF:-1 group-title="뉴스",寰宇新闻2台
+#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="뉴스",寰宇新闻2台
 http://pili-live-hdl.qhmywl.com/dsdtv/0d192b1fb482857fb4694a12c2718302.flv
-#EXTINF:-1 group-title="뉴스",欧洲新闻
+#EXTINF:-1 tvg-id="6183" tvg-name="Euronews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png" group-title="뉴스",欧洲新闻
 http://pili-live-hdl.qhmywl.com/dsdtv/7c52797bf1ca2da52c212bdead1d607c.flv
-#EXTINF:-1 group-title="뉴스",东森财经新闻[HD]
+#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="뉴스",东森财经新闻[HD]
 http://pili-live-hdl.qhmywl.com/dsdtv/10e21c98ff74745141a386d91da24c56.flv
-#EXTINF:-1 group-title="뉴스",FOX News
+#EXTINF:-1 tvg-id="717" tvg-name="FoxNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoxNews.png" group-title="뉴스",FOX News
 http://pili-live-hdl.qhmywl.com/dsdtv/b78a7c4f460285596b53bfa802eca8e8.flv
-#EXTINF:-1 group-title="뉴스",SKY NEWS
+#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="뉴스",SKY NEWS
 http://pili-live-hdl.qhmywl.com/dsdtv/64a4807c0cf482cffe922d7b8f091303.flv
-#EXTINF:-1 group-title="뉴스",NHK WORLD
+#EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="뉴스",NHK WORLD
 http://pili-live-hdl.qhmywl.com/dsdtv/1b06c6242b2fd17ab11a21d70abb2e67.flv
-#EXTINF:-1 group-title="뉴스",BBC World News
+#EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="뉴스",BBC World News
 http://pili-live-hdl.qhmywl.com/dsdtv/6d735caeaf70f8901aa00f86aefc4dde.flv
 
-
-#EXTINF:-1 group-title="영화",靖天电影
+#EXTINF:-1 tvg-id="7164" tvg-name="靖天电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天电影.png" group-title="영화",靖天电影
 http://pili-live-hdl.qhmywl.com/dsdtv/5634d5c8ee5afeb118df8decf5eb6c56.flv
-#EXTINF:-1 group-title="영화",FOX MOVIES[HD]
+#EXTINF:-1 tvg-id="6087" tvg-name="FOXMOVIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png" group-title="영화",FOX MOVIES[HD]
 http://pili-live-hdl.qhmywl.com/dsdtv/b3d2208824d1ca27dad3068e376ab557.flv
-#EXTINF:-1 group-title="영화",CINEMAX
+#EXTINF:-1 tvg-id="6089" tvg-name="CINEMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="영화",CINEMAX
 http://pili-live-hdl.qhmywl.com/dsdtv/9bece52b2f72795cc2f588f3d9e4eed3.flv
-#EXTINF:-1 group-title="영화",好莱坞电影[HD]
+#EXTINF:-1 tvg-id="6086" tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="영화",好莱坞电影[HD]
 http://pili-live-hdl.qhmywl.com/dsdtv/8e678565884cdebd00f8b3121b3b7ee1.flv
-#EXTINF:-1 group-title="영화",影迷纪实台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="영화",影迷纪实台
 http://pili-live-hdl.qhmywl.com/dsdtv/a1d2d2be053776bb01c1aac37ac2dee4.flv
-#EXTINF:-1 group-title="영화",CatchPlay电影台
+#EXTINF:-1 tvg-id="7206" tvg-name="CatchPlay电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/catchplay.png" group-title="영화",CatchPlay电影台
 http://pili-live-hdl.qhmywl.com/dsdtv/65e80e1e0cd763a0302d7aa2a1135b0b.flv
-#EXTINF:-1 group-title="영화",HBO Hits
+#EXTINF:-1 tvg-id="6153" tvg-name="HBOHits" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="영화",HBO Hits
 http://pili-live-hdl.qhmywl.com/dsdtv/c971b59822c6a91fab4bad8ca9b45f6b.flv
-#EXTINF:-1 group-title="영화",HBO Signature
+#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="영화",HBO Signature
 http://pili-live-hdl.qhmywl.com/dsdtv/fcdd3a3c591bdd0b07a17a92cb555cc1.flv
-#EXTINF:-1 group-title="영화",HBO Family
+#EXTINF:-1 tvg-id="6155" tvg-name="HBOFamily" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" group-title="영화",HBO Family
 http://pili-live-hdl.qhmywl.com/dsdtv/7e7ed5cc99029fd0d27e25009d7abdac.flv
-#EXTINF:-1 group-title="영화",LS TIME龙祥电影
+#EXTINF:-1 tvg-id="6082" tvg-name="LSTime电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="영화",LS TIME龙祥电影
 http://pili-live-hdl.qhmywl.com/dsdtv/a5da9875c963d704ac5dd8f866869723.flv
-#EXTINF:-1 group-title="영화",卫视电影台
+#EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="영화",卫视电影台
 http://pili-live-hdl.qhmywl.com/dsdtv/4499fb1dcef8c7a9f64276bf71bfc5b4.flv
-#EXTINF:-1 group-title="영화",壹电影
+#EXTINF:-1 tvg-id="609" tvg-name="壹电视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NEXTTVMovie.png" group-title="영화",壹电影
 http://pili-live-hdl.qhmywl.com/dsdtv/eb53b692ccbe8c836bc20be6734a9555.flv
-#EXTINF:-1 group-title="영화",纬来电影
+#EXTINF:-1 tvg-id="6081" tvg-name="纬来电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png" group-title="영화",纬来电影
 http://pili-live-hdl.qhmywl.com/dsdtv/4f10b67646969a422a5490deaaabbc69.flv
-#EXTINF:-1 group-title="영화",东森电影[HD]
+#EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="영화",东森电影[HD]
 http://pili-live-hdl.qhmywl.com/dsdtv/d2325cfdfd53364263d307573f78e3ce.flv
-#EXTINF:-1 group-title="영화",东森洋片[HD]
+#EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="영화",东森洋片[HD]
 http://pili-live-hdl.qhmywl.com/dsdtv/24b15906d2250c062c0f0b5339e166b2.flv
-#EXTINF:-1 group-title="영화",龙华电影
+#EXTINF:-1 tvg-id="7128" tvg-name="龙华电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华电影.png" group-title="영화",龙华电影
 http://pili-live-hdl.qhmywl.com/dsdtv/0e5dee9e8021ce3b9ec9bb78e9710555.flv
-#EXTINF:-1 group-title="영화",龙华经典
+#EXTINF:-1 tvg-id="7130" tvg-name="龙华经典" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华经典.png" group-title="영화",龙华经典
 http://pili-live-hdl.qhmywl.com/dsdtv/669a67f26ad4b9f68664bfcaefc9553e.flv
-#EXTINF:-1 group-title="영화",龙华洋片
+#EXTINF:-1 tvg-id="7132" tvg-name="龙华洋片" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华洋片.png" group-title="영화",龙华洋片
 http://pili-live-hdl.qhmywl.com/dsdtv/b7829653660ec5e84c70e7f3a01e1e6c.flv
-#EXTINF:-1 group-title="영화",星卫HD电影
+#EXTINF:-1 tvg-id="517" tvg-name="星卫HD电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmov.png" group-title="영화",星卫HD电影
 http://pili-live-hdl.qhmywl.com/dsdtv/41e05f3849c21412aa8b347f18adb3f6.flv
-#EXTINF:-1 group-title="영화",美亚电影
+#EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="영화",美亚电影
 http://pili-live-hdl.qhmywl.com/dsdtv/4a1141f101530bff4fc0e9229625e6b5.flv
-#EXTINF:-1 group-title="영화",欧洲电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="영화",欧洲电影
 http://pili-live-hdl.qhmywl.com/dsdtv/2d2f46a778c93f01b614213456fc97fc.flv
 
-#EXTINF:-1 group-title="스포츠",博斯高球1[HD]
+#EXTINF:-1 tvg-id="6177" tvg-name="博斯高球1台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports-golfch.png" group-title="스포츠",博斯高球1[HD]
 http://pili-live-hdl.qhmywl.com/dsdtv/4870a14ca0496e434825594643eea173.flv
-#EXTINF:-1 group-title="스포츠",博斯高球2[HD]
+#EXTINF:-1 tvg-id="6178" tvg-name="博斯高球2台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-golfplus.png" group-title="스포츠",博斯高球2[HD]
 http://pili-live-hdl.qhmywl.com/dsdtv/9dd0941038e16fd8207f4c485c2fd34b.flv
-#EXTINF:-1 group-title="스포츠",博斯魅力[HD]
+#EXTINF:-1 tvg-id="6179" tvg-name="博斯魅力网" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-trendsport.png" group-title="스포츠",博斯魅力[HD]
 http://pili-live-hdl.qhmywl.com/dsdtv/906ff5c1e590fdc0f41744077f56672a.flv
-#EXTINF:-1 group-title="스포츠",博斯无限[HD]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="스포츠",博斯无限[HD]
 http://pili-live-hdl.qhmywl.com/dsdtv/8c9a98717ee9e5136636c3bedbb852b8.flv
-#EXTINF:-1 group-title="스포츠",博斯网球[HD]
+#EXTINF:-1 tvg-id="6175" tvg-name="博斯网球台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_tennis.png" group-title="스포츠",博斯网球[HD]
 http://pili-live-hdl.qhmywl.com/dsdtv/cf415a2419c61638eefa5eb8c5a65922.flv
-#EXTINF:-1 group-title="스포츠",博斯运动2[HD]
+#EXTINF:-1 tvg-id="6174" tvg-name="博斯运动二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports_net_2.png" group-title="스포츠",博斯运动2[HD]
 http://pili-live-hdl.qhmywl.com/dsdtv/c71aa3f9ef9e92531a06863b9a731849.flv
-#EXTINF:-1 group-title="스포츠",博斯运动1[HD]
+#EXTINF:-1 tvg-id="6180" tvg-name="博斯运动一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-sports_net.png" group-title="스포츠",博斯运动1[HD]
 http://pili-live-hdl.qhmywl.com/dsdtv/1cebe1e25e9c69e2ed2e1e6012aeb2d3.flv
-#EXTINF:-1 group-title="스포츠",FOX SPORTS[HD]
+#EXTINF:-1 tvg-id="6091" tvg-name="FOXSports" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXSports.png" group-title="스포츠",FOX SPORTS[HD]
 http://pili-live-hdl.qhmywl.com/dsdtv/b00b46e382e81efd9902a848c9b89101.flv
-#EXTINF:-1 group-title="스포츠",FOX SPORTS2[HD]
+#EXTINF:-1 tvg-id="6091" tvg-name="FOXSports" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXSports.png" group-title="스포츠",FOX SPORTS2[HD]
 http://pili-live-hdl.qhmywl.com/dsdtv/a726b0d8db38a23435c5c3ba95507d3e.flv
-#EXTINF:-1 group-title="스포츠",欧洲体育[HD]
+#EXTINF:-1 tvg-id="7215" tvg-name="EUROSPORT" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eurosport.png" group-title="스포츠",欧洲体育[HD]
 http://pili-live-hdl.qhmywl.com/dsdtv/96681c92588f5254e1c9f8fcb41e9d64.flv
-#EXTINF:-1 group-title="스포츠",ELEVVEN SPORTS PLUS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="스포츠",ELEVVEN SPORTS PLUS
 http://pili-live-hdl.qhmywl.com/dsdtv/b599c0682fbb5364078cb9e3093228a6.flv
-#EXTINF:-1 group-title="스포츠",ELEVVEN SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="스포츠",ELEVVEN SPORTS 2
 http://pili-live-hdl.qhmywl.com/dsdtv/94283c6401f80334d9acd488b649830b.flv
-#EXTINF:-1 group-title="스포츠",FOX SPORTS 3
+#EXTINF:-1 tvg-id="508" tvg-name="FoxSports3" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoxSports3.png" group-title="스포츠",FOX SPORTS 3
 http://pili-live-hdl.qhmywl.com/dsdtv/1a4ff6880b679dd340e42a9b61fe2d9f.flv
-#EXTINF:-1 group-title="스포츠",纬来体育[HD]
+#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="스포츠",纬来体育[HD]
 http://pili-live-hdl.qhmywl.com/dsdtv/464311a99c6465a1f36681b73c62fa83.flv
-#EXTINF:-1 group-title="스포츠",智林体育台
+#EXTINF:-1 tvg-id="7182" tvg-name="智林体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/智林体育台.png" group-title="스포츠",智林体育台
 http://pili-live-hdl.qhmywl.com/dsdtv/12b7289a05d4cb3c2b79f38b030e2548.flv
 
-
-
-
-#EXTINF:-1 group-title="생방송(서울)",SBS Plus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",SBS Plus
 http://211.49.33.219:9801/stream/channelid/1215100670
-#EXTINF:-1 group-title="생방송(서울)",SBS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",SBS
 http://211.49.33.219:9801/stream/channelid/1291712525
-#EXTINF:-1 group-title="생방송(서울)",KBS1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",KBS1
 http://211.49.33.219:9801/stream/channelid/1202999090
-#EXTINF:-1 group-title="생방송(서울)",KBS2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",KBS2
 http://211.209.245.163:9981/stream/channelid/1379052767
-#EXTINF:-1 group-title="생방송(서울)",MBC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",MBC
 http://211.49.33.219:9801/stream/channelid/1458451512
-#EXTINF:-1 group-title="생방송(서울)",EBS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",EBS
 http://211.49.33.219:9801/stream/channelid/1621645053
-#EXTINF:-1 group-title="생방송(서울)",MBN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",MBN
 http://211.49.33.219:9801/stream/channelid/1791819631
-#EXTINF:-1 group-title="생방송(서울)",tvN
+#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="생방송(서울)",tvN
 http://211.49.33.219:9801/stream/channelid/427326946
-#EXTINF:-1 group-title="생방송(서울)",채널A
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",채널A
 http://211.49.33.219:9801/stream/channelid/1803843376
-#EXTINF:-1 group-title="생방송(서울)",TV조선
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",TV조선
 http://211.49.33.219:9801/stream/channelid/1608150204
-#EXTINF:-1 group-title="생방송(서울)",OBS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",OBS
 http://211.49.33.219:9801/stream/channelid/628755587
-#EXTINF:-1 group-title="생방송(서울)",연합뉴스TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",연합뉴스TV
 http://211.49.33.219:9801/stream/channelid/305498002
-#EXTINF:-1 group-title="생방송(서울)",YTN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",YTN
 http://211.49.33.219:9801/stream/channelid/791534453
-#EXTINF:-1 group-title="생방송(서울)",SBS CNBC
+#EXTINF:-1 tvg-id="688" tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="생방송(서울)",SBS CNBC
 http://211.49.33.219:9801/stream/channelid/1000094866
-#EXTINF:-1 group-title="생방송(서울)",MBC Every1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",MBC Every1
 http://211.49.33.219:9801/stream/channelid/1311383395
-#EXTINF:-1 group-title="생방송(서울)",KBS DRAMA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",KBS DRAMA
 http://211.49.33.219:9801/stream/channelid/435160259
-#EXTINF:-1 group-title="생방송(서울)",MBC Dramanet
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",MBC Dramanet
 http://211.49.33.219:9801/stream/channelid/1749497761
-#EXTINF:-1 group-title="생방송(서울)",O tvN
+#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="생방송(서울)",O tvN
 http://211.49.33.219:9801/stream/channelid/154507914
-#EXTINF:-1 group-title="생방송(서울)",드라마큐브
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",드라마큐브
 http://211.49.33.219:9801/stream/channelid/2102250768
-#EXTINF:-1 group-title="생방송(서울)",드라맥스
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",드라맥스
 http://211.49.33.219:9801/stream/channelid/25484677
-#EXTINF:-1 group-title="생방송(서울)",SkyDrama
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",SkyDrama
 http://211.49.33.219:9801/stream/channelid/871286104
-#EXTINF:-1 group-title="생방송(서울)",하이라이트TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",하이라이트TV
 http://211.49.33.219:9801/stream/channelid/49260566
-#EXTINF:-1 group-title="생방송(서울)",Edge TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",Edge TV
 http://211.49.33.219:9801/stream/channelid/681892131
-#EXTINF:-1 group-title="생방송(서울)",디원
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",디원
 http://211.49.33.219:9801/stream/channelid/1999327294
-#EXTINF:-1 group-title="생방송(서울)",드라마H
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",드라마H
 http://211.49.33.219:9801/stream/channelid/1147704910
-#EXTINF:-1 group-title="생방송(서울)",HQ+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",HQ+
 http://211.49.33.219:9801/stream/channelid/478033934
-#EXTINF:-1 group-title="생방송(서울)",채널CGV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",채널CGV
 http://211.49.33.219:9801/stream/channelid/1621079414
-#EXTINF:-1 group-title="생방송(서울)",OCN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",OCN
 http://211.49.33.219:9801/stream/channelid/431895394
-#EXTINF:-1 group-title="생방송(서울)",슈퍼액션
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",슈퍼액션
 http://211.49.33.219:9801/stream/channelid/1724064137
-#EXTINF:-1 group-title="생방송(서울)",스크린
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",스크린
 http://211.49.33.219:9801/stream/channelid/1811161816
-#EXTINF:-1 group-title="생방송(서울)",mplex
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",mplex
 http://211.49.33.219:9801/stream/channelid/962615455
-#EXTINF:-1 group-title="생방송(서울)",cineF
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",cineF
 http://211.49.33.219:9801/stream/channelid/543895233
-#EXTINF:-1 group-title="생방송(서울)",KBS JOY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",KBS JOY
 http://211.49.33.219:9801/stream/channelid/1839854858
-#EXTINF:-1 group-title="생방송(서울)",SBS funE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",SBS funE
 http://211.49.33.219:9801/stream/channelid/1371295173
-#EXTINF:-1 group-title="생방송(서울)",JTBC2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",JTBC2
 http://211.49.33.219:9801/stream/channelid/155915704
-#EXTINF:-1 group-title="생방송(서울)",E채널
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",E채널
 http://211.49.33.219:9801/stream/channelid/1656635017
-#EXTINF:-1 group-title="생방송(서울)",XtvN
+#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="생방송(서울)",XtvN
 http://211.49.33.219:9801/stream/channelid/1913171614
-#EXTINF:-1 group-title="생방송(서울)",C TIME
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",C TIME
 http://211.49.33.219:9801/stream/channelid/1486180064
-#EXTINF:-1 group-title="생방송(서울)",코미디TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",코미디TV
 http://211.49.33.219:9801/stream/channelid/858060528
-#EXTINF:-1 group-title="생방송(서울)",K STAR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",K STAR
 http://211.49.33.219:9801/stream/channelid/794443697
-#EXTINF:-1 group-title="생방송(서울)",CUBE TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",CUBE TV
 http://211.49.33.219:9801/stream/channelid/1151681176
-#EXTINF:-1 group-title="생방송(서울)",FX
+#EXTINF:-1 tvg-id="711" tvg-name="FXHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FXHD.png" group-title="생방송(서울)",FX
 http://211.49.33.219:9801/stream/channelid/1600677582
-#EXTINF:-1 group-title="생방송(서울)",FUN TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",FUN TV
 http://211.49.33.219:9801/stream/channelid/734789315
-#EXTINF:-1 group-title="생방송(서울)",CMC가족오락TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",CMC가족오락TV
 http://211.49.33.219:9801/stream/channelid/911647787
-#EXTINF:-1 group-title="생방송(서울)",EBS2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",EBS2
 http://211.49.33.219:9801/stream/channelid/1643767920
-#EXTINF:-1 group-title="생방송(서울)",DIA TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",DIA TV
 http://211.49.33.219:9801/stream/channelid/1307932057
-#EXTINF:-1 group-title="생방송(서울)",채널A 플러스
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",채널A 플러스
 http://211.49.33.219:9801/stream/channelid/1514242370
-#EXTINF:-1 group-title="생방송(서울)",MBN Plus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",MBN Plus
 http://211.49.33.219:9801/stream/channelid/1390142677
-#EXTINF:-1 group-title="생방송(서울)",FOX
+#EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="생방송(서울)",FOX
 http://211.49.33.219:9801/stream/channelid/113250088
-#EXTINF:-1 group-title="생방송(서울)",AXN
+#EXTINF:-1 tvg-id="6085" tvg-name="AXN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="생방송(서울)",AXN
 http://211.49.33.219:9801/stream/channelid/1827796666
-#EXTINF:-1 group-title="생방송(서울)",채널 J
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",채널 J
 http://211.49.33.219:9801/stream/channelid/1525713398
-#EXTINF:-1 group-title="생방송(서울)",텔레노벨라
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",텔레노벨라
 http://211.49.33.219:9801/stream/channelid/483290192
-#EXTINF:-1 group-title="생방송(서울)",SPOTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",SPOTV
 http://211.49.33.219:9801/stream/channelid/445370235
-#EXTINF:-1 group-title="생방송(서울)",KBS N Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",KBS N Sports
 http://211.49.33.219:9801/stream/channelid/1602412225
-#EXTINF:-1 group-title="생방송(서울)",SBS Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",SBS Sports
 http://211.49.33.219:9801/stream/channelid/1648669716
-#EXTINF:-1 group-title="생방송(서울)",MBC SPORTS+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",MBC SPORTS+
 http://211.49.33.219:9801/stream/channelid/1550640191
-#EXTINF:-1 group-title="생방송(서울)",MBC SPORTS+2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",MBC SPORTS+2
 http://211.49.33.219:9801/stream/channelid/553035657
-#EXTINF:-1 group-title="생방송(서울)",SkySports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",SkySports
 http://211.49.33.219:9801/stream/channelid/11521453
-#EXTINF:-1 group-title="생방송(서울)",SkySports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",SkySports
 http://211.49.33.219:9801/stream/channelid/1100960361
-#EXTINF:-1 group-title="생방송(서울)",JTBC3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",JTBC3
 http://211.49.33.219:9801/stream/channelid/1615522446
-#EXTINF:-1 group-title="생방송(서울)",SPOTV+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",SPOTV+
 http://211.49.33.219:9801/stream/channelid/529424179
-#EXTINF:-1 group-title="생방송(서울)",SPOTV2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",SPOTV2
 http://211.49.33.219:9801/stream/channelid/1292478411
-#EXTINF:-1 group-title="생방송(서울)",IB SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",IB SPORTS
 http://211.49.33.219:9801/stream/channelid/1983620854
-#EXTINF:-1 group-title="생방송(서울)",SBS GOLF
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",SBS GOLF
 http://211.49.33.219:9801/stream/channelid/1880371524
-#EXTINF:-1 group-title="생방송(서울)",JTBC Golf
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",JTBC Golf
 http://211.49.33.219:9801/stream/channelid/1950234049
-#EXTINF:-1 group-title="생방송(서울)",OGN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",OGN
 http://211.49.33.219:9801/stream/channelid/889704862
-#EXTINF:-1 group-title="생방송(서울)",토마토TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",토마토TV
 http://211.49.33.219:9801/stream/channelid/338942387
-#EXTINF:-1 group-title="생방송(서울)",Tooniverse
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",Tooniverse
 http://211.49.33.219:9801/stream/channelid/1514157084
-#EXTINF:-1 group-title="생방송(서울)",Disney Channel
+#EXTINF:-1 tvg-id="6041" tvg-name="Disney" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png" group-title="생방송(서울)",Disney Channel
 http://211.49.33.219:9801/stream/channelid/1037315998
-#EXTINF:-1 group-title="생방송(서울)",디즈니주니어
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",디즈니주니어
 http://211.49.33.219:9801/stream/channelid/1810651935
-#EXTINF:-1 group-title="생방송(서울)",부메랑
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",부메랑
 http://211.49.33.219:9801/stream/channelid/1424284859
-#EXTINF:-1 group-title="생방송(서울)",애니플러스
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",애니플러스
 http://211.49.33.219:9801/stream/channelid/205873472
-#EXTINF:-1 group-title="생방송(서울)",KBS kids
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",KBS kids
 http://211.49.33.219:9801/stream/channelid/2142476465
-#EXTINF:-1 group-title="생방송(서울)",대교 어린이TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",대교 어린이TV
 http://211.49.33.219:9801/stream/channelid/1489486383
-#EXTINF:-1 group-title="생방송(서울)",EBS kids
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",EBS kids
 http://211.49.33.219:9801/stream/channelid/2039722932
-#EXTINF:-1 group-title="생방송(서울)",온스타일
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",온스타일
 http://211.49.33.219:9801/stream/channelid/824295086
-#EXTINF:-1 group-title="생방송(서울)",Fashion N
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",Fashion N
 http://211.49.33.219:9801/stream/channelid/580382681
-#EXTINF:-1 group-title="생방송(서울)",채널뷰
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",채널뷰
 http://211.49.33.219:9801/stream/channelid/214108760
-#EXTINF:-1 group-title="생방송(서울)",KBS W
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",KBS W
 http://211.49.33.219:9801/stream/channelid/1301854419
-#EXTINF:-1 group-title="생방송(서울)",Life U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",Life U
 http://211.49.33.219:9801/stream/channelid/389275595
-#EXTINF:-1 group-title="생방송(서울)",Fox life
+#EXTINF:-1 tvg-id="385" tvg-name="FOXLIFE" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXLIFE.png" group-title="생방송(서울)",Fox life
 http://211.49.33.219:9801/stream/channelid/1892148790
-#EXTINF:-1 group-title="생방송(서울)",동아TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",동아TV
 http://211.49.33.219:9801/stream/channelid/232653597
-#EXTINF:-1 group-title="생방송(서울)",JTBC4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",JTBC4
 http://211.49.33.219:9801/stream/channelid/763709244
-#EXTINF:-1 group-title="생방송(서울)",SBS MTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",SBS MTV
 http://211.49.33.219:9801/stream/channelid/2037877737
-#EXTINF:-1 group-title="생방송(서울)",MBC MUSIC
+#EXTINF:-1 tvg-id="7191" tvg-name="CMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cmusic.png" group-title="생방송(서울)",MBC MUSIC
 http://211.49.33.219:9801/stream/channelid/1358434002
-#EXTINF:-1 group-title="생방송(서울)",예술 TV아르떼
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",예술 TV아르떼
 http://211.49.33.219:9801/stream/channelid/866246432
-#EXTINF:-1 group-title="생방송(서울)",BET
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",BET
 http://211.49.33.219:9801/stream/channelid/1628019439
-#EXTINF:-1 group-title="생방송(서울)",ONT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",ONT
 http://211.49.33.219:9801/stream/channelid/435405127
-#EXTINF:-1 group-title="생방송(서울)",마운틴TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",마운틴TV
 http://211.49.33.219:9801/stream/channelid/57559599
-#EXTINF:-1 group-title="생방송(서울)",리빙TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",리빙TV
 http://211.49.33.219:9801/stream/channelid/1447903936
-#EXTINF:-1 group-title="생방송(서울)",NGC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",NGC
 http://211.49.33.219:9801/stream/channelid/1139621708
-#EXTINF:-1 group-title="생방송(서울)",디스커버리채널
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",디스커버리채널
 http://211.49.33.219:9801/stream/channelid/1222537865
-#EXTINF:-1 group-title="생방송(서울)",YTN 사이언스
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",YTN 사이언스
 http://211.49.33.219:9801/stream/channelid/343012337
-#EXTINF:-1 group-title="생방송(서울)",NatGeo People
+#EXTINF:-1 tvg-id="283" tvg-name="国家地理悠人频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeopeople.png" group-title="생방송(서울)",NatGeo People
 http://211.49.33.219:9801/stream/channelid/579323163
-#EXTINF:-1 group-title="생방송(서울)",리얼TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",리얼TV
 http://211.49.33.219:9801/stream/channelid/520052675
-#EXTINF:-1 group-title="생방송(서울)",헬스메디tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",헬스메디tv
 http://211.49.33.219:9801/stream/channelid/1322288702
-#EXTINF:-1 group-title="생방송(서울)",아리랑 TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",아리랑 TV
 http://211.49.33.219:9801/stream/channelid/443923702
-#EXTINF:-1 group-title="생방송(서울)",274-MBC NET
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",274-MBC NET
 http://211.49.33.219:9801/stream/channelid/831320365
-#EXTINF:-1 group-title="생방송(서울)",MBC NET
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",MBC NET
 http://211.49.33.219:9801/stream/channelid/640682542
-#EXTINF:-1 group-title="생방송(서울)",채널i
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",채널i
 http://211.49.33.219:9801/stream/channelid/283652013
-#EXTINF:-1 group-title="생방송(서울)",KTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",KTV
 http://211.49.33.219:9801/stream/channelid/499151463
 
-
-#EXTINF:-1 group-title="생방송(부산)",[]4Ch 영화
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(부산)",[]4Ch 영화
 http://211.209.245.163:9981/stream/channelid/489736086
-#EXTINF:-1 group-title="생방송(부산)",[]4Ch 지상파
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(부산)",[]4Ch 지상파
 http://211.209.245.163:9981/stream/channelid/636526612
-#EXTINF:-1 group-title="생방송(부산)",XtvN
+#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="생방송(부산)",XtvN
 http://211.209.245.163:9981/stream/channelid/1025355358
-#EXTINF:-1 group-title="생방송(부산)",JIBS 제주방송
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(부산)",JIBS 제주방송
 http://211.209.245.163:9981/stream/channelid/60313643
-#EXTINF:-1 group-title="생방송(부산)",SBS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(부산)",SBS
 http://211.209.245.163:9981/stream/channelid/97508515
-#EXTINF:-1 group-title="생방송(부산)",KBS2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(부산)",KBS2
 http://211.209.245.163:9981/stream/channelid/1379052767
-#EXTINF:-1 group-title="생방송(부산)",KBS1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(부산)",KBS1
 http://211.209.245.163:9981/stream/channelid/681525034
-#EXTINF:-1 group-title="생방송(부산)",MBC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(부산)",MBC
 http://211.209.245.163:9981/stream/channelid/579921580
-#EXTINF:-1 group-title="생방송(부산)",마산 MBC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(부산)",마산 MBC
 http://211.209.245.163:9981/stream/channelid/1805441935
-#EXTINF:-1 group-title="생방송(부산)",JTBC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(부산)",JTBC
 http://211.209.245.163:9981/stream/channelid/623920562
-#EXTINF:-1 group-title="생방송(부산)",tvN
+#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="생방송(부산)",tvN
 http://211.209.245.163:9981/stream/channelid/1757592388
-#EXTINF:-1 group-title="생방송(부산)",MBC Every1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(부산)",MBC Every1
 http://211.209.245.163:9981/stream/channelid/1992908933
-#EXTINF:-1 group-title="생방송(부산)",채널CGV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(부산)",채널CGV
 http://211.209.245.163:9981/stream/channelid/392518975
-#EXTINF:-1 group-title="생방송(부산)",OCN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(부산)",OCN
 http://211.209.245.163:9981/stream/channelid/573505774
-#EXTINF:-1 group-title="생방송(부산)",슈퍼액션
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(부산)",슈퍼액션
 http://211.209.245.163:9981/stream/channelid/45805291
-#EXTINF:-1 group-title="생방송(부산)",스크린
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(부산)",스크린
 http://211.209.245.163:9981/stream/channelid/560357894
-#EXTINF:-1 group-title="생방송(부산)",mplex
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(부산)",mplex
 http://211.209.245.163:9981/stream/channelid/271113922
-#EXTINF:-1 group-title="생방송(부산)",cineF
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(부산)",cineF
 http://211.209.245.163:9981/stream/channelid/1255177452
-#EXTINF:-1 group-title="생방송(부산)",THE MOVIE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(부산)",THE MOVIE
 http://211.209.245.163:9981/stream/channelid/431647075
-#EXTINF:-1 group-title="생방송(부산)",SBS Plus UHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(부산)",SBS Plus UHD
 http://211.209.245.163:9981/stream/channelid/1162609984
-#EXTINF:-1 group-title="생방송(부산)",O tvN
+#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="생방송(부산)",O tvN
 http://211.209.245.163:9981/stream/channelid/1366017354
-#EXTINF:-1 group-title="생방송(부산)",FOX
+#EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="생방송(부산)",FOX
 http://211.209.245.163:9981/stream/channelid/1858083470
 
-
-
-#EXTINF:-1 group-title="생방송(울산)",EBS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(울산)",EBS
 http://222.108.187.218:9981/stream/channelid/1260949333
-#EXTINF:-1 group-title="생방송(울산)",JTBC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(울산)",JTBC
 http://222.108.187.218:9981/stream/channelid/689907708
-#EXTINF:-1 group-title="생방송(울산)",MBN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(울산)",MBN
 http://222.108.187.218:9981/stream/channelid/1997281247
-#EXTINF:-1 group-title="생방송(울산)",tvN
+#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="생방송(울산)",tvN
 http://222.108.187.218:9981/stream/channelid/1151562663
-#EXTINF:-1 group-title="생방송(울산)",채널A
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(울산)",채널A
 http://222.108.187.218:9981/stream/channelid/33004317
-#EXTINF:-1 group-title="생방송(울산)",채널A
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(울산)",채널A
 http://222.108.187.218:9981/stream/channelid/1828623332
-#EXTINF:-1 group-title="생방송(울산)",TV조선
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(울산)",TV조선
 http://222.108.187.218:9981/stream/channelid/1377282637
-#EXTINF:-1 group-title="생방송(울산)",YTN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(울산)",YTN
 http://222.108.187.218:9981/stream/channelid/2049489572
-#EXTINF:-1 group-title="생방송(울산)",MBC Every1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(울산)",MBC Every1
 http://222.108.187.218:9981/stream/channelid/1514818096
-#EXTINF:-1 group-title="생방송(울산)",OCN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(울산)",OCN
 http://222.108.187.218:9981/stream/channelid/1786749177
-#EXTINF:-1 group-title="생방송(울산)",채널CGV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(울산)",채널CGV
 http://222.108.187.218:9981/stream/channelid/512757785
-#EXTINF:-1 group-title="생방송(울산)",SPOTV2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(울산)",SPOTV2
 http://222.108.187.218:9981/stream/channelid/521962371
-#EXTINF:-1 group-title="생방송(울산)",SPOTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(울산)",SPOTV
 http://222.108.187.218:9981/stream/channelid/683736097
-#EXTINF:-1 group-title="생방송(울산)",KBS N Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(울산)",KBS N Sports
 http://222.108.187.218:9981/stream/channelid/1779891191
-#EXTINF:-1 group-title="생방송(울산)",MBC SPORTS+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(울산)",MBC SPORTS+
 http://222.108.187.218:9981/stream/channelid/1845225804
-#EXTINF:-1 group-title="생방송(울산)",XtvN
+#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="생방송(울산)",XtvN
 http://222.108.187.218:9981/stream/channelid/1312942845
-#EXTINF:-1 group-title="생방송(울산)",SBS funE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(울산)",SBS funE
 http://222.108.187.218:9981/stream/channelid/1642419908
-#EXTINF:-1 group-title="생방송(울산)",EBS2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(울산)",EBS2
 http://222.108.187.218:9981/stream/channelid/1945864736
-#EXTINF:-1 group-title="생방송(울산)",애니플러스
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(울산)",애니플러스
 http://222.108.187.218:9981/stream/channelid/1132909186
-#EXTINF:-1 group-title="생방송(울산)",Disney Channel
+#EXTINF:-1 tvg-id="6041" tvg-name="Disney" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png" group-title="생방송(울산)",Disney Channel
 http://222.108.187.218:9981/stream/channelid/69392706
-#EXTINF:-1 group-title="생방송(울산)",애니원
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(울산)",애니원
 http://222.108.187.218:9981/stream/channelid/1723417012
-#EXTINF:-1 group-title="생방송(울산)",대교 어린이TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(울산)",대교 어린이TV
 http://222.108.187.218:9981/stream/channelid/1615032275
-#EXTINF:-1 group-title="생방송(울산)",브라보키즈
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(울산)",브라보키즈
 http://222.108.187.218:9981/stream/channelid/541268117
-#EXTINF:-1 group-title="생방송(울산)",Fun TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(울산)",Fun TV
 http://222.108.187.218:9981/stream/channelid/2139143247
-#EXTINF:-1 group-title="생방송(울산)",UXN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(울산)",UXN
 http://222.108.187.218:9981/stream/channelid/1257055158
-#EXTINF:-1 group-title="생방송(울산)",홈쇼핑
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(울산)",홈쇼핑
 http://222.108.187.218:9981/stream/channelid/2082855913
-#EXTINF:-1 group-title="생방송(울산)",SBS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(울산)",SBS
 http://222.108.187.218:9981/stream/channelid/148861807
-#EXTINF:-1 group-title="생방송(울산)",GS SHOP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(울산)",GS SHOP
 http://222.108.187.218:9981/stream/channelid/271383661
-#EXTINF:-1 group-title="생방송(울산)",KBS2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(울산)",KBS2
 http://222.108.187.218:9981/stream/channelid/888117629
-#EXTINF:-1 group-title="생방송(울산)",KBS1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(울산)",KBS1
 http://222.108.187.218:9981/stream/channelid/442170959
-#EXTINF:-1 group-title="생방송(울산)",KBS1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(울산)",KBS1
 http://222.108.187.218:9981/stream/channelid/138570431
-#EXTINF:-1 group-title="생방송(울산)",MBC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(울산)",MBC
 http://222.108.187.218:9981/stream/channelid/1860460706
-#EXTINF:-1 group-title="생방송(울산)",MBC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(울산)",MBC
 http://222.108.187.218:9981/stream/channelid/1214795622
-#EXTINF:-1 group-title="생방송(울산)",EBS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(울산)",EBS
 http://222.108.187.218:9981/stream/channelid/1594411503
 
-
-
-#EXTINF:-1 group-title="생방송(고양)",Unknown Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",Unknown Channel
 http://211.202.248.32:9981/stream/channelid/82981031
-#EXTINF:-1 group-title="생방송(고양)",Unknown Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",Unknown Channel
 http://211.202.248.32:9981/stream/channelid/318683806
-#EXTINF:-1 group-title="생방송(고양)",Unknown Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",Unknown Channel
 http://211.202.248.32:9981/stream/channelid/477143980
-#EXTINF:-1 group-title="생방송(고양)",Unknown Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",Unknown Channel
 http://211.202.248.32:9981/stream/channelid/575142382
-#EXTINF:-1 group-title="생방송(고양)",Unknown Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",Unknown Channel
 http://211.202.248.32:9981/stream/channelid/793472837
-#EXTINF:-1 group-title="생방송(고양)",Unknown Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",Unknown Channel
 http://211.202.248.32:9981/stream/channelid/1115111967
-#EXTINF:-1 group-title="생방송(고양)",Unknown Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",Unknown Channel
 http://211.202.248.32:9981/stream/channelid/2030663047
-#EXTINF:-1 group-title="생방송(고양)",Unknown Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",Unknown Channel
 http://211.202.248.32:9981/stream/channelid/2107510279
-#EXTINF:-1 group-title="생방송(고양)",{name-not-set}
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",{name-not-set}
 http://211.202.248.32:9981/stream/channelid/1110617108
-#EXTINF:-1 group-title="생방송(고양)",{name-not-set}
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",{name-not-set}
 http://211.202.248.32:9981/stream/channelid/1619207397
-#EXTINF:-1 group-title="생방송(고양)",SBS 플러스
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",SBS 플러스
 http://211.202.248.32:9981/stream/channelid/859960345
-#EXTINF:-1 group-title="생방송(고양)",아임쇼핑
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",아임쇼핑
 http://211.202.248.32:9981/stream/channelid/622793460
-#EXTINF:-1 group-title="생방송(고양)",아임쇼핑
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",아임쇼핑
 http://211.202.248.32:9981/stream/channelid/1021774363
-#EXTINF:-1 group-title="생방송(고양)",홈&amp;쇼핑
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",홈&amp;쇼핑
 http://211.202.248.32:9981/stream/channelid/974123869
-#EXTINF:-1 group-title="생방송(고양)",CJB 청주방송
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",CJB 청주방송
 http://211.202.248.32:9981/stream/channelid/1897622048
-#EXTINF:-1 group-title="생방송(고양)",G1 강원민방
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",G1 강원민방
 http://211.202.248.32:9981/stream/channelid/569125469
-#EXTINF:-1 group-title="생방송(고양)",JIBS 제주방송
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",JIBS 제주방송
 http://211.202.248.32:9981/stream/channelid/28697699
-#EXTINF:-1 group-title="생방송(고양)",JTV 전주방송
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",JTV 전주방송
 http://211.202.248.32:9981/stream/channelid/1251024170
-#EXTINF:-1 group-title="생방송(고양)",KBC 광주방송
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",KBC 광주방송
 http://211.202.248.32:9981/stream/channelid/15786615
-#EXTINF:-1 group-title="생방송(고양)",SBS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",SBS
 http://211.202.248.32:9981/stream/channelid/79224649
-#EXTINF:-1 group-title="생방송(고양)",UBC 울산방송
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",UBC 울산방송
 http://211.202.248.32:9981/stream/channelid/1932456338
-#EXTINF:-1 group-title="생방송(고양)",KBS2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",KBS2
 http://211.202.248.32:9981/stream/channelid/1611045772
-#EXTINF:-1 group-title="생방송(고양)",현대홈쇼핑
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",현대홈쇼핑
 http://211.202.248.32:9981/stream/channelid/1893193628
-#EXTINF:-1 group-title="생방송(고양)",KBS1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",KBS1
 http://211.202.248.32:9981/stream/channelid/376576077
-#EXTINF:-1 group-title="생방송(고양)",롯데홈쇼핑
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",롯데홈쇼핑
 http://211.202.248.32:9981/stream/channelid/1963976127
-#EXTINF:-1 group-title="생방송(고양)",MBC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",MBC
 http://211.202.248.32:9981/stream/channelid/17318086
-#EXTINF:-1 group-title="생방송(고양)",강릉 MBC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",강릉 MBC
 http://211.202.248.32:9981/stream/channelid/961112932
-#EXTINF:-1 group-title="생방송(고양)",부산 MBC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",부산 MBC
 http://211.202.248.32:9981/stream/channelid/1005865992
-#EXTINF:-1 group-title="생방송(고양)",삼척 MBC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",삼척 MBC
 http://211.202.248.32:9981/stream/channelid/862134108
-#EXTINF:-1 group-title="생방송(고양)",제주 MBC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",제주 MBC
 http://211.202.248.32:9981/stream/channelid/1466647531
-#EXTINF:-1 group-title="생방송(고양)",청주 MBC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",청주 MBC
 http://211.202.248.32:9981/stream/channelid/542980124
-#EXTINF:-1 group-title="생방송(고양)",포항 MBC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",포항 MBC
 http://211.202.248.32:9981/stream/channelid/778246561
-#EXTINF:-1 group-title="생방송(고양)",GS SHOP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",GS SHOP
 http://211.202.248.32:9981/stream/channelid/145894956
-#EXTINF:-1 group-title="생방송(고양)",EBS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",EBS
 http://211.202.248.32:9981/stream/channelid/1766961160
-#EXTINF:-1 group-title="생방송(고양)",NS홈쇼핑
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",NS홈쇼핑
 http://211.202.248.32:9981/stream/channelid/885028296
-#EXTINF:-1 group-title="생방송(고양)",JTBC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",JTBC
 http://211.202.248.32:9981/stream/channelid/709836489
-#EXTINF:-1 group-title="생방송(고양)",JTBC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",JTBC
 http://211.202.248.32:9981/stream/channelid/1468494949
-#EXTINF:-1 group-title="생방송(고양)",MBN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",MBN
 http://211.202.248.32:9981/stream/channelid/1585867271
-#EXTINF:-1 group-title="생방송(고양)",tvN
+#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="생방송(고양)",tvN
 http://211.202.248.32:9981/stream/channelid/1512785433
-#EXTINF:-1 group-title="생방송(고양)",채널A
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",채널A
 http://211.202.248.32:9981/stream/channelid/2056549831
-#EXTINF:-1 group-title="생방송(고양)",TV조선
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",TV조선
 http://211.202.248.32:9981/stream/channelid/489191222
-#EXTINF:-1 group-title="생방송(고양)",OBS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",OBS
 http://211.202.248.32:9981/stream/channelid/954304572
-#EXTINF:-1 group-title="생방송(고양)",SK stoa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",SK stoa
 http://211.202.248.32:9981/stream/channelid/763669245
-#EXTINF:-1 group-title="생방송(고양)",신세계쇼핑
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",신세계쇼핑
 http://211.202.248.32:9981/stream/channelid/1313733050
-#EXTINF:-1 group-title="생방송(고양)",신세계쇼핑
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",신세계쇼핑
 http://211.202.248.32:9981/stream/channelid/2011271447
-#EXTINF:-1 group-title="생방송(고양)",연합뉴스TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",연합뉴스TV
 http://211.202.248.32:9981/stream/channelid/240758129
-#EXTINF:-1 group-title="생방송(고양)",연합뉴스TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",연합뉴스TV
 http://211.202.248.32:9981/stream/channelid/1610203428
-#EXTINF:-1 group-title="생방송(고양)",YTN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",YTN
 http://211.202.248.32:9981/stream/channelid/1225939163
-#EXTINF:-1 group-title="생방송(고양)",K쇼핑
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",K쇼핑
 http://211.202.248.32:9981/stream/channelid/1565544340
-#EXTINF:-1 group-title="생방송(고양)",SBS CNBC
+#EXTINF:-1 tvg-id="688" tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="생방송(고양)",SBS CNBC
 http://211.202.248.32:9981/stream/channelid/1085607262
-#EXTINF:-1 group-title="생방송(고양)",N/A
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",N/A
 http://211.202.248.32:9981/stream/channelid/1635339368
-#EXTINF:-1 group-title="생방송(고양)",MBC Every1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",MBC Every1
 http://211.202.248.32:9981/stream/channelid/275888752
-#EXTINF:-1 group-title="생방송(고양)",GS MY SHOP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",GS MY SHOP
 http://211.202.248.32:9981/stream/channelid/667054683
-#EXTINF:-1 group-title="생방송(고양)",KBS 드라마
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",KBS 드라마
 http://211.202.248.32:9981/stream/channelid/1092578807
-#EXTINF:-1 group-title="생방송(고양)",KBS 드라마
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",KBS 드라마
 http://211.202.248.32:9981/stream/channelid/1254962771
-#EXTINF:-1 group-title="생방송(고양)",쇼핑엔티
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",쇼핑엔티
 http://211.202.248.32:9981/stream/channelid/1479229566
-#EXTINF:-1 group-title="생방송(고양)",MBC 드라마
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",MBC 드라마
 http://211.202.248.32:9981/stream/channelid/925285564
-#EXTINF:-1 group-title="생방송(고양)",CJ오쇼핑 플러스
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",CJ오쇼핑 플러스
 http://211.202.248.32:9981/stream/channelid/4311316
-#EXTINF:-1 group-title="생방송(고양)",O tvN
+#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="생방송(고양)",O tvN
 http://211.202.248.32:9981/stream/channelid/895981448
-#EXTINF:-1 group-title="생방송(고양)",롯데OneTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",롯데OneTV
 http://211.202.248.32:9981/stream/channelid/2117631569
-#EXTINF:-1 group-title="생방송(고양)",드라마큐브
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",드라마큐브
 http://211.202.248.32:9981/stream/channelid/982847199
-#EXTINF:-1 group-title="생방송(고양)",W쇼핑
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",W쇼핑
 http://211.202.248.32:9981/stream/channelid/591893184
-#EXTINF:-1 group-title="생방송(고양)",드라맥스
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",드라맥스
 http://211.202.248.32:9981/stream/channelid/2124088016
-#EXTINF:-1 group-title="생방송(고양)",현대홈쇼핑+Shop
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",현대홈쇼핑+Shop
 http://211.202.248.32:9981/stream/channelid/1597498305
-#EXTINF:-1 group-title="생방송(고양)",sky Drama
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",sky Drama
 http://211.202.248.32:9981/stream/channelid/905672034
-#EXTINF:-1 group-title="생방송(고양)",NS Shop+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",NS Shop+
 http://211.202.248.32:9981/stream/channelid/850878926
-#EXTINF:-1 group-title="생방송(고양)",Highlight TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",Highlight TV
 http://211.202.248.32:9981/stream/channelid/1492713949
-#EXTINF:-1 group-title="생방송(고양)",CNTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",CNTV
 http://211.202.248.32:9981/stream/channelid/726611602
-#EXTINF:-1 group-title="생방송(고양)",EDGE TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",EDGE TV
 http://211.202.248.32:9981/stream/channelid/1658181493
-#EXTINF:-1 group-title="생방송(고양)",디원
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",디원
 http://211.202.248.32:9981/stream/channelid/410647585
-#EXTINF:-1 group-title="생방송(고양)",드라마H
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",드라마H
 http://211.202.248.32:9981/stream/channelid/1782695694
-#EXTINF:-1 group-title="생방송(고양)",Ch CGV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",Ch CGV
 http://211.202.248.32:9981/stream/channelid/1772236379
-#EXTINF:-1 group-title="생방송(고양)",OCN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",OCN
 http://211.202.248.32:9981/stream/channelid/2103375972
-#EXTINF:-1 group-title="생방송(고양)",SUPER ACTION
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",SUPER ACTION
 http://211.202.248.32:9981/stream/channelid/859881384
-#EXTINF:-1 group-title="생방송(고양)",Screen
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",Screen
 http://211.202.248.32:9981/stream/channelid/580181411
-#EXTINF:-1 group-title="생방송(고양)",Mplex
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",Mplex
 http://211.202.248.32:9981/stream/channelid/549361552
-#EXTINF:-1 group-title="생방송(고양)",Cinef
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",Cinef
 http://211.202.248.32:9981/stream/channelid/2094129621
-#EXTINF:-1 group-title="생방송(고양)",Celestial Movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",Celestial Movies
 http://211.202.248.32:9981/stream/channelid/348559155
-#EXTINF:-1 group-title="생방송(고양)",Celestial Movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",Celestial Movies
 http://211.202.248.32:9981/stream/channelid/2065590417
-#EXTINF:-1 group-title="생방송(고양)",KBS joy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",KBS joy
 http://211.202.248.32:9981/stream/channelid/854949779
-#EXTINF:-1 group-title="생방송(고양)",KBS joy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",KBS joy
 http://211.202.248.32:9981/stream/channelid/986710393
-#EXTINF:-1 group-title="생방송(고양)",SBS fun E
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",SBS fun E
 http://211.202.248.32:9981/stream/channelid/1134713561
-#EXTINF:-1 group-title="생방송(고양)",jtbc2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",jtbc2
 http://211.202.248.32:9981/stream/channelid/1855305765
-#EXTINF:-1 group-title="생방송(고양)",E채널
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",E채널
 http://211.202.248.32:9981/stream/channelid/184535984
-#EXTINF:-1 group-title="생방송(고양)",E채널
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",E채널
 http://211.202.248.32:9981/stream/channelid/1920941827
-#EXTINF:-1 group-title="생방송(고양)",올리브
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",올리브
 http://211.202.248.32:9981/stream/channelid/1038336077
-#EXTINF:-1 group-title="생방송(고양)",XtvN
+#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="생방송(고양)",XtvN
 http://211.202.248.32:9981/stream/channelid/1384347845
-#EXTINF:-1 group-title="생방송(고양)",C TIME
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",C TIME
 http://211.202.248.32:9981/stream/channelid/2034744528
-#EXTINF:-1 group-title="생방송(고양)",코미디TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",코미디TV
 http://211.202.248.32:9981/stream/channelid/332706299
-#EXTINF:-1 group-title="생방송(고양)",K star
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",K star
 http://211.202.248.32:9981/stream/channelid/66321928
-#EXTINF:-1 group-title="생방송(고양)",CUBE TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",CUBE TV
 http://211.202.248.32:9981/stream/channelid/1075268855
-#EXTINF:-1 group-title="생방송(고양)",FX
+#EXTINF:-1 tvg-id="711" tvg-name="FXHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FXHD.png" group-title="생방송(고양)",FX
 http://211.202.248.32:9981/stream/channelid/98943963
-#EXTINF:-1 group-title="생방송(고양)",CMC 가족오락TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",CMC 가족오락TV
 http://211.202.248.32:9981/stream/channelid/707798343
-#EXTINF:-1 group-title="생방송(고양)",Sky Petpark
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",Sky Petpark
 http://211.202.248.32:9981/stream/channelid/402272117
-#EXTINF:-1 group-title="생방송(고양)",EBS2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",EBS2
 http://211.202.248.32:9981/stream/channelid/1333684150
-#EXTINF:-1 group-title="생방송(고양)",DIA TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",DIA TV
 http://211.202.248.32:9981/stream/channelid/581373727
-#EXTINF:-1 group-title="생방송(고양)",AMC
+#EXTINF:-1 tvg-id="7165" tvg-name="AMC" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AMC.png" group-title="생방송(고양)",AMC
 http://211.202.248.32:9981/stream/channelid/1025945420
-#EXTINF:-1 group-title="생방송(고양)",AMC
+#EXTINF:-1 tvg-id="7165" tvg-name="AMC" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AMC.png" group-title="생방송(고양)",AMC
 http://211.202.248.32:9981/stream/channelid/1200577788
-#EXTINF:-1 group-title="생방송(고양)",FOX
+#EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="생방송(고양)",FOX
 http://211.202.248.32:9981/stream/channelid/1826586315
-#EXTINF:-1 group-title="생방송(고양)",FOX
+#EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="생방송(고양)",FOX
 http://211.202.248.32:9981/stream/channelid/1939777104
-#EXTINF:-1 group-title="생방송(고양)",AXN
+#EXTINF:-1 tvg-id="6085" tvg-name="AXN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="생방송(고양)",AXN
 http://211.202.248.32:9981/stream/channelid/334796408
-#EXTINF:-1 group-title="생방송(고양)",중화TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",중화TV
 http://211.202.248.32:9981/stream/channelid/1103847366
-#EXTINF:-1 group-title="생방송(고양)",Asia N
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",Asia N
 http://211.202.248.32:9981/stream/channelid/275083259
-#EXTINF:-1 group-title="생방송(고양)",히어로액션
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",히어로액션
 http://211.202.248.32:9981/stream/channelid/1944943148
-#EXTINF:-1 group-title="생방송(고양)",채널차이나
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",채널차이나
 http://211.202.248.32:9981/stream/channelid/1589452251
-#EXTINF:-1 group-title="생방송(고양)",텔레노벨라
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",텔레노벨라
 http://211.202.248.32:9981/stream/channelid/802293182
-#EXTINF:-1 group-title="생방송(고양)",텔레노벨라
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",텔레노벨라
 http://211.202.248.32:9981/stream/channelid/1105807996
-#EXTINF:-1 group-title="생방송(고양)",SPOTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",SPOTV
 http://211.202.248.32:9981/stream/channelid/185463538
-#EXTINF:-1 group-title="생방송(고양)",KBSN 스포츠
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",KBSN 스포츠
 http://211.202.248.32:9981/stream/channelid/2125970600
-#EXTINF:-1 group-title="생방송(고양)",SBS Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",SBS Sports
 http://211.202.248.32:9981/stream/channelid/1543473506
-#EXTINF:-1 group-title="생방송(고양)",MBC Sports+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",MBC Sports+
 http://211.202.248.32:9981/stream/channelid/1997625726
-#EXTINF:-1 group-title="생방송(고양)",MBC SPORTS+2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",MBC SPORTS+2
 http://211.202.248.32:9981/stream/channelid/1928904789
-#EXTINF:-1 group-title="생방송(고양)",sky Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",sky Sports
 http://211.202.248.32:9981/stream/channelid/1514884917
-#EXTINF:-1 group-title="생방송(고양)",JTBC3 FOXSPORTS
+#EXTINF:-1 tvg-id="6091" tvg-name="FOXSports" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXSports.png" group-title="생방송(고양)",JTBC3 FOXSPORTS
 http://211.202.248.32:9981/stream/channelid/1970615939
-#EXTINF:-1 group-title="생방송(고양)",IB Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",IB Sports
 http://211.202.248.32:9981/stream/channelid/2112118505
-#EXTINF:-1 group-title="생방송(고양)",Billiards TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",Billiards TV
 http://211.202.248.32:9981/stream/channelid/1175623176
-#EXTINF:-1 group-title="생방송(고양)",SBS GOLF
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",SBS GOLF
 http://211.202.248.32:9981/stream/channelid/431461287
-#EXTINF:-1 group-title="생방송(고양)",JTBC GOLF
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",JTBC GOLF
 http://211.202.248.32:9981/stream/channelid/693552363
-#EXTINF:-1 group-title="생방송(고양)",JTBC GOLF
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",JTBC GOLF
 http://211.202.248.32:9981/stream/channelid/2113424759
-#EXTINF:-1 group-title="생방송(고양)",OGN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",OGN
 http://211.202.248.32:9981/stream/channelid/1799996214
-#EXTINF:-1 group-title="생방송(고양)",스크린 골프존
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",스크린 골프존
 http://211.202.248.32:9981/stream/channelid/1352543088
-#EXTINF:-1 group-title="생방송(고양)",스크린 골프존
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",스크린 골프존
 http://211.202.248.32:9981/stream/channelid/1462833299
-#EXTINF:-1 group-title="생방송(고양)",토마토TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",토마토TV
 http://211.202.248.32:9981/stream/channelid/500199167
-#EXTINF:-1 group-title="생방송(고양)",한국경제TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",한국경제TV
 http://211.202.248.32:9981/stream/channelid/831155039
-#EXTINF:-1 group-title="생방송(고양)",MTN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",MTN
 http://211.202.248.32:9981/stream/channelid/79001401
-#EXTINF:-1 group-title="생방송(고양)",매일경제TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",매일경제TV
 http://211.202.248.32:9981/stream/channelid/342760699
-#EXTINF:-1 group-title="생방송(고양)",매일경제TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",매일경제TV
 http://211.202.248.32:9981/stream/channelid/680725393
-#EXTINF:-1 group-title="생방송(고양)",아시아경제TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",아시아경제TV
 http://211.202.248.32:9981/stream/channelid/217887126
-#EXTINF:-1 group-title="생방송(고양)",이데일리TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",이데일리TV
 http://211.202.248.32:9981/stream/channelid/199976638
-#EXTINF:-1 group-title="생방송(고양)",이데일리TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",이데일리TV
 http://211.202.248.32:9981/stream/channelid/331716054
-#EXTINF:-1 group-title="생방송(고양)",서울경제TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",서울경제TV
 http://211.202.248.32:9981/stream/channelid/1142261232
-#EXTINF:-1 group-title="생방송(고양)",YTN 라이프
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",YTN 라이프
 http://211.202.248.32:9981/stream/channelid/245052837
-#EXTINF:-1 group-title="생방송(고양)",CNN US
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",CNN US
 http://211.202.248.32:9981/stream/channelid/1932518432
-#EXTINF:-1 group-title="생방송(고양)",Tooniverse
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",Tooniverse
 http://211.202.248.32:9981/stream/channelid/139875629
-#EXTINF:-1 group-title="생방송(고양)",디즈니채널
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",디즈니채널
 http://211.202.248.32:9981/stream/channelid/2131878299
-#EXTINF:-1 group-title="생방송(고양)",디즈니주니어
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",디즈니주니어
 http://211.202.248.32:9981/stream/channelid/1780148023
-#EXTINF:-1 group-title="생방송(고양)",Animax
+#EXTINF:-1 tvg-id="7238" tvg-name="Animax" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="생방송(고양)",Animax
 http://211.202.248.32:9981/stream/channelid/199171750
-#EXTINF:-1 group-title="생방송(고양)",애니원
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",애니원
 http://211.202.248.32:9981/stream/channelid/19771718
-#EXTINF:-1 group-title="생방송(고양)",부메랑
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",부메랑
 http://211.202.248.32:9981/stream/channelid/588530153
-#EXTINF:-1 group-title="생방송(고양)",Nickelodeon
+#EXTINF:-1 tvg-id="6184" tvg-name="Nickelodeon" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Nickelodeon.png" group-title="생방송(고양)",Nickelodeon
 http://211.202.248.32:9981/stream/channelid/1484424346
-#EXTINF:-1 group-title="생방송(고양)",카툰네트워크
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",카툰네트워크
 http://211.202.248.32:9981/stream/channelid/299585166
-#EXTINF:-1 group-title="생방송(고양)",애니플러스
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",애니플러스
 http://211.202.248.32:9981/stream/channelid/1227139391
-#EXTINF:-1 group-title="생방송(고양)",애니박스
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",애니박스
 http://211.202.248.32:9981/stream/channelid/411138946
-#EXTINF:-1 group-title="생방송(고양)",애니박스
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",애니박스
 http://211.202.248.32:9981/stream/channelid/664656750
-#EXTINF:-1 group-title="생방송(고양)",KBS KIDS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",KBS KIDS
 http://211.202.248.32:9981/stream/channelid/795594805
-#EXTINF:-1 group-title="생방송(고양)",KBS KIDS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",KBS KIDS
 http://211.202.248.32:9981/stream/channelid/1748740831
-#EXTINF:-1 group-title="생방송(고양)",어린이TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",어린이TV
 http://211.202.248.32:9981/stream/channelid/1728244905
-#EXTINF:-1 group-title="생방송(고양)",JEI 재능TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",JEI 재능TV
 http://211.202.248.32:9981/stream/channelid/167766403
-#EXTINF:-1 group-title="생방송(고양)",KIDS1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",KIDS1
 http://211.202.248.32:9981/stream/channelid/2143541123
-#EXTINF:-1 group-title="생방송(고양)",EBS kids
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",EBS kids
 http://211.202.248.32:9981/stream/channelid/1726673159
-#EXTINF:-1 group-title="생방송(고양)",On style
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",On style
 http://211.202.248.32:9981/stream/channelid/530938733
-#EXTINF:-1 group-title="생방송(고양)",Fashion N
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",Fashion N
 http://211.202.248.32:9981/stream/channelid/213159831
-#EXTINF:-1 group-title="생방송(고양)",채널View
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",채널View
 http://211.202.248.32:9981/stream/channelid/670350822
-#EXTINF:-1 group-title="생방송(고양)",라이프타임
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",라이프타임
 http://211.202.248.32:9981/stream/channelid/192620503
-#EXTINF:-1 group-title="생방송(고양)",KBS W
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",KBS W
 http://211.202.248.32:9981/stream/channelid/204914368
-#EXTINF:-1 group-title="생방송(고양)",Fox life
+#EXTINF:-1 tvg-id="385" tvg-name="FOXLIFE" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXLIFE.png" group-title="생방송(고양)",Fox life
 http://211.202.248.32:9981/stream/channelid/323676695
-#EXTINF:-1 group-title="생방송(고양)",동아TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",동아TV
 http://211.202.248.32:9981/stream/channelid/2069789460
-#EXTINF:-1 group-title="생방송(고양)",OBSW
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",OBSW
 http://211.202.248.32:9981/stream/channelid/1401215748
-#EXTINF:-1 group-title="생방송(고양)",SBS MTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",SBS MTV
 http://211.202.248.32:9981/stream/channelid/362244671
-#EXTINF:-1 group-title="생방송(고양)",MBC Music
+#EXTINF:-1 tvg-id="7191" tvg-name="CMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cmusic.png" group-title="생방송(고양)",MBC Music
 http://211.202.248.32:9981/stream/channelid/1558862321
-#EXTINF:-1 group-title="생방송(고양)",GMTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",GMTV
 http://211.202.248.32:9981/stream/channelid/1660046176
-#EXTINF:-1 group-title="생방송(고양)",Arte TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",Arte TV
 http://211.202.248.32:9981/stream/channelid/1771690493
-#EXTINF:-1 group-title="생방송(고양)",BET
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",BET
 http://211.202.248.32:9981/stream/channelid/1576668506
-#EXTINF:-1 group-title="생방송(고양)",바둑TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",바둑TV
 http://211.202.248.32:9981/stream/channelid/70636598
-#EXTINF:-1 group-title="생방송(고양)",K-바둑
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",K-바둑
 http://211.202.248.32:9981/stream/channelid/1813569807
-#EXTINF:-1 group-title="생방송(고양)",브레인TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",브레인TV
 http://211.202.248.32:9981/stream/channelid/486864262
-#EXTINF:-1 group-title="생방송(고양)",FTV
+#EXTINF:-1 tvg-id="701" tvg-name="FashionTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="생방송(고양)",FTV
 http://211.202.248.32:9981/stream/channelid/880687932
-#EXTINF:-1 group-title="생방송(고양)",FISHING TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",FISHING TV
 http://211.202.248.32:9981/stream/channelid/1500828270
-#EXTINF:-1 group-title="생방송(고양)",sky Travel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",sky Travel
 http://211.202.248.32:9981/stream/channelid/669588789
-#EXTINF:-1 group-title="생방송(고양)",Mountain TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",Mountain TV
 http://211.202.248.32:9981/stream/channelid/101027261
-#EXTINF:-1 group-title="생방송(고양)",폴라리스TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",폴라리스TV
 http://211.202.248.32:9981/stream/channelid/961696154
-#EXTINF:-1 group-title="생방송(고양)",YTN 사이언스
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",YTN 사이언스
 http://211.202.248.32:9981/stream/channelid/1692202539
-#EXTINF:-1 group-title="생방송(고양)",Natgeo Wild HD
+#EXTINF:-1 tvg-id="427" tvg-name="国家地理野生频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png" group-title="생방송(고양)",Natgeo Wild HD
 http://211.202.248.32:9981/stream/channelid/83099593
-#EXTINF:-1 group-title="생방송(고양)",헬스메디TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",헬스메디TV
 http://211.202.248.32:9981/stream/channelid/1088317899
-#EXTINF:-1 group-title="생방송(고양)",아리랑TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",아리랑TV
 http://211.202.248.32:9981/stream/channelid/1448777255
-#EXTINF:-1 group-title="생방송(고양)",KTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",KTV
 http://211.202.248.32:9981/stream/channelid/1187346400
-#EXTINF:-1 group-title="생방송(고양)",국회방송
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",국회방송
 http://211.202.248.32:9981/stream/channelid/859572263
-#EXTINF:-1 group-title="생방송(고양)",OUN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",OUN
 http://211.202.248.32:9981/stream/channelid/1069282955
-#EXTINF:-1 group-title="생방송(고양)",OUN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",OUN
 http://211.202.248.32:9981/stream/channelid/1702659819
