@@ -78,13 +78,13 @@ http://1.244.176.6:9981/stream/channelid/1202757007
 #EXTINF:-1 group-title="생방송(일산)",mplex
 http://1.244.176.6:9981/stream/channelid/1711476292
 
-#EXTINF:-1 group-title="지리과학",国家地理HD
+#EXTINF:-1 tvg-name="国家地理频道" group-title="지리과학",国家地理HD
 http://pili-live-hdl.qhmywl.com/dsdtv/1b4017a457de80eec599895ec807e124.flv
 #EXTINF:-1 group-title="지리과학",国家地理野生
 http://pili-live-hdl.qhmywl.com/dsdtv/a4540237835700ece1fc1e54ce826125.flv
 #EXTINF:-1 group-title="지리과학",国家地理悠人
 http://pili-live-hdl.qhmywl.com/dsdtv/0293b493509468a0a896adea05ad5e30.flv
-#EXTINF:-1 group-title="지리과학",Discovery Asia
+#EXTINF:-1 tvg-name=“DiscoveryAsia” group-title="지리과학",Discovery Asia
 http://pili-live-hdl.qhmywl.com/dsdtv/f325e0ce8ddf55c2df916b6f2bc0e07c.flv
 #EXTINF:-1 group-title="지리과학",Discovery科学[HD]
 http://pili-live-hdl.qhmywl.com/dsdtv/f82bcb85f1a67e5b4754f7be0661dc72.flv
