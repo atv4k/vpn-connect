@@ -907,33 +907,33 @@ http://211.202.248.32:9981/stream/channelid/1069282955
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(고양)",OUN
 http://211.202.248.32:9981/stream/channelid/1702659819
 
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" group-title="CCTV",CCTV-1综合	
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV",CCTV-1综合	
 http://171.116.116.176:9981/stream/channelid/1174547898
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" group-title="CCTV",CCTV-2财经
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="CCTV",CCTV-2财经
 http://171.116.116.176:9981/stream/channelid/514502576
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" group-title="CCTV",CCTV-3综艺
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="CCTV",CCTV-3综艺
 http://171.116.116.176:9981/stream/channelid/427615041
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" group-title="CCTV",CCTV-4中文国际
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="CCTV",CCTV-4中文国际
 http://171.116.116.176:9981/stream/channelid/1797747632
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" group-title="CCTV",CCTV-5体育
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="CCTV",CCTV-5体育
 http://171.116.116.176:9981/stream/channelid/703771039
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV6" group-title="CCTV",CCTV-6电影
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="CCTV",CCTV-6电影
 http://171.116.116.176:9981/stream/channelid/926366430
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV7" group-title="CCTV",CCTV-7国防军事
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="CCTV",CCTV-7国防军事
 http://171.116.116.176:9981/stream/channelid/678916283
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV8" group-title="CCTV",CCTV-8电视剧
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="CCTV",CCTV-8电视剧
 http://171.116.116.176:9981/stream/channelid/490405760
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV9" group-title="CCTV",CCTV-9纪录
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="CCTV",CCTV-9纪录
 http://171.116.116.176:9981/stream/channelid/1218433835
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV10" group-title="CCTV",CCTV-10科教
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="CCTV",CCTV-10科教
 http://171.116.116.176:9981/stream/channelid/369847393
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV11" group-title="CCTV",CCTV-11戏曲
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="CCTV",CCTV-11戏曲
 http://171.116.116.176:9981/stream/channelid/1412629090
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV12" group-title="CCTV",CCTV-12社会与法
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="CCTV",CCTV-12社会与法
 http://171.116.116.176:9981/stream/channelid/275632899
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV13" group-title="CCTV",CCTV-13新闻
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="CCTV",CCTV-13新闻
 http://171.116.116.176:9981/stream/channelid/2046509739
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV14" group-title="CCTV",CCTV-14少儿
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="CCTV",CCTV-14少儿
 http://171.116.116.176:9981/stream/channelid/1295305175
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV15" group-title="CCTV",CCTV-15音乐
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="CCTV",CCTV-15音乐
 http://171.116.116.176:9981/stream/channelid/608460310
