@@ -105,7 +105,7 @@ http://pili-live-hdl.qhmywl.com/dsdtv/a7003032346b06ad6a610ce1751be6a4.flv
 http://pili-live-hdl.qhmywl.com/dsdtv/a079e0f13033fc06d42cd0e9e40913ee.flv
 #EXTINF:-1 tvg-id="7178" tvg-name="CI" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CrimeInvestigation.png" group-title="지리과학",CI 罪案侦查频道
 http://pili-live-hdl.qhmywl.com/dsdtv/3b19a19852e7bdc6b6f238108c94cb82.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",TLC旅游生活频道
+#EXTINF:-1 tvg-id="477" tvg-name="TLC旅游生活频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tlc.png" group-title="지리과학",TLC旅游生活频道
 http://pili-live-hdl.qhmywl.com/dsdtv/2389cbac5b421dd5b069a232f3d321bc.flv
 #EXTINF:-1 tvg-id="7155" tvg-name="SMART知识频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Smart知识台.png" group-title="지리과학",SMART 知识频道
 http://pili-live-hdl.qhmywl.com/dsdtv/641befebabe286484103e2980e05694d.flv
@@ -166,7 +166,7 @@ http://pili-live-hdl.qhmywl.com/dsdtv/4c3c2a7fe5ffc33e45bca04f983f02b0.flv
 http://pili-live-hdl.qhmywl.com/dsdtv/060e39b20b7616170ba4ba63c53bc336.flv
 #EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="음악",TVB星河频道
 http://pili-live-hdl.qhmywl.com/dsdtv/e70f35708baededbbd1d0963f76981a1.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",TVB 功夫
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="음악",TVB 功夫
 http://pili-live-hdl.qhmywl.com/dsdtv/cfd2b3912b756d6d4965f018fd7d3717.flv
 #EXTINF:-1 tvg-id="7219" tvg-name="爱尔达综合" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_zonghehd.png" group-title="음악",爱尔达综合台
 http://pili-live-hdl.qhmywl.com/dsdtv/c614a26c0e0fb521c5cdfa10ed7f2089.flv
