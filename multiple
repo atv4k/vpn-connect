@@ -375,3 +375,37 @@ http://pili-live-hdl.qhmywl.com/dsdtv/464311a99c6465a1f36681b73c62fa83.flv
 #EXTINF:-1 tvg-id="7182" tvg-name="智林体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/智林体育台.png" group-title="스포츠",智林体育台
 http://pili-live-hdl.qhmywl.com/dsdtv/12b7289a05d4cb3c2b79f38b030e2548.flv
 
+#EXTINF:-1 group-title="CCTV" ,CCTV-1
+http://125.210.152.18:9090/live/CCTV1HD_H265.m3u8
+#EXTINF:-1 group-title="CCTV" ,CCTV-2
+http://125.210.152.18:9090/live/CCTV2HD_H265.m3u8
+#EXTINF:-1 group-title="CCTV" ,CCTV-3
+http://125.210.152.18:9090/live/CCTV3HD_H265.m3u8
+#EXTINF:-1 group-title="CCTV" ,CCTV-4
+http://live.centerch.com/cctv4hd.m3u8
+#EXTINF:-1 group-title="CCTV" ,CCTV-5
+http://125.210.152.18:9090/live/CCTV5HD_H265.m3u8
+#EXTINF:-1 group-title="CCTV" ,CCTV5+
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=36&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 group-title="CCTV" ,CCTV-6
+http://125.210.152.18:9090/live/CCTV6HD_H265.m3u8
+#EXTINF:-1 group-title="CCTV" ,CCTV-7
+http://125.210.152.18:9090/live/CCTV7HD_H265.m3u8
+#EXTINF:-1 group-title="CCTV" ,CCTV-8
+http://125.210.152.18:9090/live/CCTV8HD_H265.m3u8
+#EXTINF:-1 group-title="CCTV" ,CCTV-9
+http://125.210.152.18:9090/live/CCTVJLHD_H265.m3u8
+#EXTINF:-1 group-title="CCTV" ,CCTV-10
+http://125.210.152.18:9090/live/CCTV10HD_H265.m3u8
+#EXTINF:-1 group-title="CCTV" ,CCTV-12高清
+http://125.210.152.18:9090/live/CCTV12HD_H265.m3u8
+#EXTINF:-1 group-title="CCTV" ,CCTV-13(1)
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=64&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 group-title="CCTV" ,CCTV-13(2)
+http://125.210.152.18:9090/live/CCTV13_750.m3u8
+#EXTINF:-1 group-title="CCTV" ,CCTV-13(3)
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/1.m3u8
+#EXTINF:-1 group-title="CCTV" ,CCTV-13(4)
+http://121.31.30.90:8085/ysten-business/live/cctv-13/1.m3u8
+#EXTINF:-1 group-title="CCTV" ,CCTV4K
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=77&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
