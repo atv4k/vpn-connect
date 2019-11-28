@@ -373,412 +373,193 @@ http://pili-live-hdl.qhmywl.com/dsdtv/464311a99c6465a1f36681b73c62fa83.flv
 #EXTINF:-1 tvg-id="7182" tvg-name="智林体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/智林体育台.png" group-title="스포츠",智林体育台
 http://pili-live-hdl.qhmywl.com/dsdtv/12b7289a05d4cb3c2b79f38b030e2548.flv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",SBS Plus
-http://211.49.33.219:9801/stream/channelid/1215100670
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",SBS
-http://211.49.33.219:9801/stream/channelid/1291712525
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",KBS1
-http://211.49.33.219:9801/stream/channelid/1202999090
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",KBS2
-http://211.209.245.163:9981/stream/channelid/1379052767
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",MBC
-http://211.49.33.219:9801/stream/channelid/1458451512
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",EBS
-http://211.49.33.219:9801/stream/channelid/1621645053
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",MBN
-http://211.49.33.219:9801/stream/channelid/1791819631
-#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="생방송(서울)",tvN
-http://211.49.33.219:9801/stream/channelid/427326946
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",채널A
-http://211.49.33.219:9801/stream/channelid/1803843376
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",TV조선
-http://211.49.33.219:9801/stream/channelid/1608150204
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",OBS
-http://211.49.33.219:9801/stream/channelid/628755587
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",연합뉴스TV
-http://211.49.33.219:9801/stream/channelid/305498002
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",YTN
-http://211.49.33.219:9801/stream/channelid/791534453
-#EXTINF:-1 tvg-id="688" tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="생방송(서울)",SBS CNBC
-http://211.49.33.219:9801/stream/channelid/1000094866
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",MBC Every1
-http://211.49.33.219:9801/stream/channelid/1311383395
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",KBS DRAMA
-http://211.49.33.219:9801/stream/channelid/435160259
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",MBC Dramanet
-http://211.49.33.219:9801/stream/channelid/1749497761
-#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="생방송(서울)",O tvN
-http://211.49.33.219:9801/stream/channelid/154507914
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",드라마큐브
-http://211.49.33.219:9801/stream/channelid/2102250768
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",드라맥스
-http://211.49.33.219:9801/stream/channelid/25484677
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",SkyDrama
-http://211.49.33.219:9801/stream/channelid/871286104
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",하이라이트TV
-http://211.49.33.219:9801/stream/channelid/49260566
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",Edge TV
-http://211.49.33.219:9801/stream/channelid/681892131
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",디원
-http://211.49.33.219:9801/stream/channelid/1999327294
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",드라마H
-http://211.49.33.219:9801/stream/channelid/1147704910
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",HQ+
-http://211.49.33.219:9801/stream/channelid/478033934
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",채널CGV
-http://211.49.33.219:9801/stream/channelid/1621079414
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",OCN
-http://211.49.33.219:9801/stream/channelid/431895394
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",슈퍼액션
-http://211.49.33.219:9801/stream/channelid/1724064137
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",스크린
-http://211.49.33.219:9801/stream/channelid/1811161816
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",mplex
-http://211.49.33.219:9801/stream/channelid/962615455
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",cineF
-http://211.49.33.219:9801/stream/channelid/543895233
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",KBS JOY
-http://211.49.33.219:9801/stream/channelid/1839854858
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",SBS funE
-http://211.49.33.219:9801/stream/channelid/1371295173
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",JTBC2
-http://211.49.33.219:9801/stream/channelid/155915704
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",E채널
-http://211.49.33.219:9801/stream/channelid/1656635017
-#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="생방송(서울)",XtvN
-http://211.49.33.219:9801/stream/channelid/1913171614
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",C TIME
-http://211.49.33.219:9801/stream/channelid/1486180064
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",코미디TV
-http://211.49.33.219:9801/stream/channelid/858060528
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",K STAR
-http://211.49.33.219:9801/stream/channelid/794443697
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",CUBE TV
-http://211.49.33.219:9801/stream/channelid/1151681176
-#EXTINF:-1 tvg-id="711" tvg-name="FXHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FXHD.png" group-title="생방송(서울)",FX
-http://211.49.33.219:9801/stream/channelid/1600677582
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",FUN TV
-http://211.49.33.219:9801/stream/channelid/734789315
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",CMC가족오락TV
-http://211.49.33.219:9801/stream/channelid/911647787
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",EBS2
-http://211.49.33.219:9801/stream/channelid/1643767920
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",DIA TV
-http://211.49.33.219:9801/stream/channelid/1307932057
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",채널A 플러스
-http://211.49.33.219:9801/stream/channelid/1514242370
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",MBN Plus
-http://211.49.33.219:9801/stream/channelid/1390142677
-#EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="생방송(서울)",FOX
-http://211.49.33.219:9801/stream/channelid/113250088
-#EXTINF:-1 tvg-id="6085" tvg-name="AXN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="생방송(서울)",AXN
-http://211.49.33.219:9801/stream/channelid/1827796666
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",채널 J
-http://211.49.33.219:9801/stream/channelid/1525713398
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",텔레노벨라
-http://211.49.33.219:9801/stream/channelid/483290192
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",SPOTV
-http://211.49.33.219:9801/stream/channelid/445370235
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",KBS N Sports
-http://211.49.33.219:9801/stream/channelid/1602412225
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",SBS Sports
-http://211.49.33.219:9801/stream/channelid/1648669716
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",MBC SPORTS+
-http://211.49.33.219:9801/stream/channelid/1550640191
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",MBC SPORTS+2
-http://211.49.33.219:9801/stream/channelid/553035657
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",SkySports
-http://211.49.33.219:9801/stream/channelid/11521453
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",SkySports
-http://211.49.33.219:9801/stream/channelid/1100960361
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",JTBC3
-http://211.49.33.219:9801/stream/channelid/1615522446
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",SPOTV+
-http://211.49.33.219:9801/stream/channelid/529424179
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",SPOTV2
-http://211.49.33.219:9801/stream/channelid/1292478411
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",IB SPORTS
-http://211.49.33.219:9801/stream/channelid/1983620854
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",SBS GOLF
-http://211.49.33.219:9801/stream/channelid/1880371524
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",JTBC Golf
-http://211.49.33.219:9801/stream/channelid/1950234049
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",OGN
-http://211.49.33.219:9801/stream/channelid/889704862
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",토마토TV
-http://211.49.33.219:9801/stream/channelid/338942387
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",Tooniverse
-http://211.49.33.219:9801/stream/channelid/1514157084
-#EXTINF:-1 tvg-id="6041" tvg-name="Disney" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png" group-title="생방송(서울)",Disney Channel
-http://211.49.33.219:9801/stream/channelid/1037315998
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",디즈니주니어
-http://211.49.33.219:9801/stream/channelid/1810651935
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",부메랑
-http://211.49.33.219:9801/stream/channelid/1424284859
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",애니플러스
-http://211.49.33.219:9801/stream/channelid/205873472
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",KBS kids
-http://211.49.33.219:9801/stream/channelid/2142476465
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",대교 어린이TV
-http://211.49.33.219:9801/stream/channelid/1489486383
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",EBS kids
-http://211.49.33.219:9801/stream/channelid/2039722932
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",온스타일
-http://211.49.33.219:9801/stream/channelid/824295086
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",Fashion N
-http://211.49.33.219:9801/stream/channelid/580382681
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",채널뷰
-http://211.49.33.219:9801/stream/channelid/214108760
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",KBS W
-http://211.49.33.219:9801/stream/channelid/1301854419
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",Life U
-http://211.49.33.219:9801/stream/channelid/389275595
-#EXTINF:-1 tvg-id="385" tvg-name="FOXLIFE" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXLIFE.png" group-title="생방송(서울)",Fox life
-http://211.49.33.219:9801/stream/channelid/1892148790
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",동아TV
-http://211.49.33.219:9801/stream/channelid/232653597
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",JTBC4
-http://211.49.33.219:9801/stream/channelid/763709244
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",SBS MTV
-http://211.49.33.219:9801/stream/channelid/2037877737
-#EXTINF:-1 tvg-id="7191" tvg-name="CMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cmusic.png" group-title="생방송(서울)",MBC MUSIC
-http://211.49.33.219:9801/stream/channelid/1358434002
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",예술 TV아르떼
-http://211.49.33.219:9801/stream/channelid/866246432
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",BET
-http://211.49.33.219:9801/stream/channelid/1628019439
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",ONT
-http://211.49.33.219:9801/stream/channelid/435405127
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",마운틴TV
-http://211.49.33.219:9801/stream/channelid/57559599
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",리빙TV
-http://211.49.33.219:9801/stream/channelid/1447903936
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",NGC
-http://211.49.33.219:9801/stream/channelid/1139621708
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",디스커버리채널
-http://211.49.33.219:9801/stream/channelid/1222537865
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",YTN 사이언스
-http://211.49.33.219:9801/stream/channelid/343012337
-#EXTINF:-1 tvg-id="283" tvg-name="国家地理悠人频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeopeople.png" group-title="생방송(서울)",NatGeo People
-http://211.49.33.219:9801/stream/channelid/579323163
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",리얼TV
-http://211.49.33.219:9801/stream/channelid/520052675
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",헬스메디tv
-http://211.49.33.219:9801/stream/channelid/1322288702
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",아리랑 TV
-http://211.49.33.219:9801/stream/channelid/443923702
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",274-MBC NET
-http://211.49.33.219:9801/stream/channelid/831320365
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",MBC NET
-http://211.49.33.219:9801/stream/channelid/640682542
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",채널i
-http://211.49.33.219:9801/stream/channelid/283652013
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(서울)",KTV
-http://211.49.33.219:9801/stream/channelid/499151463
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(부산)",[]4Ch 영화
-http://211.209.245.163:9981/stream/channelid/489736086
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(부산)",[]4Ch 지상파
-http://211.209.245.163:9981/stream/channelid/636526612
-#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="생방송(부산)",XtvN
-http://211.209.245.163:9981/stream/channelid/1025355358
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(부산)",JIBS 제주방송
-http://211.209.245.163:9981/stream/channelid/60313643
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(부산)",SBS
-http://211.209.245.163:9981/stream/channelid/97508515
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(부산)",KBS2
-http://211.209.245.163:9981/stream/channelid/1379052767
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(부산)",KBS1
-http://211.209.245.163:9981/stream/channelid/681525034
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(부산)",MBC
-http://211.209.245.163:9981/stream/channelid/579921580
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(부산)",마산 MBC
-http://211.209.245.163:9981/stream/channelid/1805441935
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(부산)",JTBC
-http://211.209.245.163:9981/stream/channelid/623920562
-#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="생방송(부산)",tvN
-http://211.209.245.163:9981/stream/channelid/1757592388
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(부산)",MBC Every1
-http://211.209.245.163:9981/stream/channelid/1992908933
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(부산)",채널CGV
-http://211.209.245.163:9981/stream/channelid/392518975
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(부산)",OCN
-http://211.209.245.163:9981/stream/channelid/573505774
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(부산)",슈퍼액션
-http://211.209.245.163:9981/stream/channelid/45805291
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(부산)",스크린
-http://211.209.245.163:9981/stream/channelid/560357894
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(부산)",mplex
-http://211.209.245.163:9981/stream/channelid/271113922
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(부산)",cineF
-http://211.209.245.163:9981/stream/channelid/1255177452
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(부산)",THE MOVIE
-http://211.209.245.163:9981/stream/channelid/431647075
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(부산)",SBS Plus UHD
-http://211.209.245.163:9981/stream/channelid/1162609984
-#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="생방송(부산)",O tvN
-http://211.209.245.163:9981/stream/channelid/1366017354
-#EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="생방송(부산)",FOX
-http://211.209.245.163:9981/stream/channelid/1858083470
-
-#EXTINF:-1 group-title="생방송(대구)",SBS 플러스
-http://39.113.245.63:9981/stream/channelid/191346000
-#EXTINF:-1 group-title="생방송(대구)",SBS
-http://39.113.245.63:9981/stream/channelid/303842784
-#EXTINF:-1 group-title="생방송(대구)",KBS2
-http://39.113.245.63:9981/stream/channelid/1108642797
-#EXTINF:-1 group-title="생방송(대구)",KBS1
-http://39.113.245.63:9981/stream/channelid/759519197
-#EXTINF:-1 group-title="생방송(대구)",MBC
-http://39.113.245.63:9981/stream/channelid/201404601
-#EXTINF:-1 group-title="생방송(대구)",EBS1
-http://39.113.245.63:9981/stream/channelid/1215370426
-#EXTINF:-1 group-title="생방송(대구)",JTBC
-http://39.113.245.63:9981/stream/channelid/1189460438
-#EXTINF:-1 group-title="생방송(대구)",MBN
-http://39.113.245.63:9981/stream/channelid/2051520864
-#EXTINF:-1 group-title="생방송(대구)",tvN
-http://39.113.245.63:9981/stream/channelid/1936328265
-#EXTINF:-1 group-title="생방송(대구)",채널A
-http://39.113.245.63:9981/stream/channelid/812454412
-#EXTINF:-1 group-title="생방송(대구)",TV조선
-http://39.113.245.63:9981/stream/channelid/373013891
-#EXTINF:-1 group-title="생방송(대구)",OBS
-http://39.113.245.63:9981/stream/channelid/761006879
-#EXTINF:-1 group-title="생방송(대구)",연합뉴스TV
-http://39.113.245.63:9981/stream/channelid/340203390
-#EXTINF:-1 group-title="생방송(대구)",YTN
-http://39.113.245.63:9981/stream/channelid/1126521671
-#EXTINF:-1 group-title="생방송(대구)",SBS CNBC
-http://39.113.245.63:9981/stream/channelid/582937129
-#EXTINF:-1 group-title="생방송(대구)",N/A
-http://39.113.245.63:9981/stream/channelid/980909431
-#EXTINF:-1 group-title="생방송(대구)",MBC Every1
-http://39.113.245.63:9981/stream/channelid/1366350257
-#EXTINF:-1 group-title="생방송(대구)",KBS 드라마
-http://39.113.245.63:9981/stream/channelid/1356040896
-#EXTINF:-1 group-title="생방송(대구)",MBC 드라마
-http://39.113.245.63:9981/stream/channelid/1079464986
-#EXTINF:-1 group-title="생방송(대구)",올리브
-http://39.113.245.63:9981/stream/channelid/1362769845
-#EXTINF:-1 group-title="생방송(대구)",sky Drama
-http://39.113.245.63:9981/stream/channelid/189164429
-#EXTINF:-1 group-title="생방송(대구)",Highlight TV
-http://39.113.245.63:9981/stream/channelid/1718972232
-#EXTINF:-1 group-title="생방송(대구)",CNTV
-http://39.113.245.63:9981/stream/channelid/1735717747
-#EXTINF:-1 group-title="생방송(대구)",EDGE TV
-http://39.113.245.63:9981/stream/channelid/1498956979
-#EXTINF:-1 group-title="생방송(대구)",디원
-http://39.113.245.63:9981/stream/channelid/688899140
-#EXTINF:-1 group-title="생방송(대구)",드라마H
-http://39.113.245.63:9981/stream/channelid/302795886
-#EXTINF:-1 group-title="생방송(대구)",Ch CGV
-http://39.113.245.63:9981/stream/channelid/1186370769
-#EXTINF:-1 group-title="생방송(대구)",OCN
-http://39.113.245.63:9981/stream/channelid/2031419079
-#EXTINF:-1 group-title="생방송(대구)",SUPER ACTION
-http://39.113.245.63:9981/stream/channelid/896315038
-#EXTINF:-1 group-title="생방송(대구)",Mplex
-http://39.113.245.63:9981/stream/channelid/161178577
-#EXTINF:-1 group-title="생방송(대구)",KBS joy
-http://39.113.245.63:9981/stream/channelid/1017631493
-#EXTINF:-1 group-title="생방송(대구)",SBS fun E
-http://39.113.245.63:9981/stream/channelid/1549612270
-#EXTINF:-1 group-title="생방송(대구)",jtbc2
-http://39.113.245.63:9981/stream/channelid/162043660
-#EXTINF:-1 group-title="생방송(대구)",E채널
-http://39.113.245.63:9981/stream/channelid/501653044
-#EXTINF:-1 group-title="생방송(대구)",O tvN
-http://39.113.245.63:9981/stream/channelid/1538133260
-#EXTINF:-1 group-title="생방송(대구)",XtvN
-http://39.113.245.63:9981/stream/channelid/1952958172
-#EXTINF:-1 group-title="생방송(대구)",코미디TV
-http://39.113.245.63:9981/stream/channelid/1602176807
-#EXTINF:-1 group-title="생방송(대구)",K star
-http://39.113.245.63:9981/stream/channelid/438529387
-#EXTINF:-1 group-title="생방송(대구)",EBS2
-http://39.113.245.63:9981/stream/channelid/2056905138
-#EXTINF:-1 group-title="생방송(대구)",FOX
-http://39.113.245.63:9981/stream/channelid/1912085163
-#EXTINF:-1 group-title="생방송(대구)",SPOTV
-http://39.113.245.63:9981/stream/channelid/283202541
-#EXTINF:-1 group-title="생방송(대구)",KBSN 스포츠
-http://39.113.245.63:9981/stream/channelid/832039887
-#EXTINF:-1 group-title="생방송(대구)",SBS Sports
-http://39.113.245.63:9981/stream/channelid/1029388098
-#EXTINF:-1 group-title="생방송(대구)",MBC Sports+
-http://39.113.245.63:9981/stream/channelid/927483581
-#EXTINF:-1 group-title="생방송(대구)",MBC SPORTS+2
-http://39.113.245.63:9981/stream/channelid/664367327
-#EXTINF:-1 group-title="생방송(대구)",sky Sports
-http://39.113.245.63:9981/stream/channelid/1730368894
-#EXTINF:-1 group-title="생방송(대구)",JTBC3 FOXSPORTS
-http://39.113.245.63:9981/stream/channelid/2117885289
-#EXTINF:-1 group-title="생방송(대구)",SPOTV+
-http://39.113.245.63:9981/stream/channelid/1789820455
-#EXTINF:-1 group-title="생방송(대구)",SPOTV2
-http://39.113.245.63:9981/stream/channelid/1779344627
-#EXTINF:-1 group-title="생방송(대구)",IB Sports
-http://39.113.245.63:9981/stream/channelid/1977261657
-#EXTINF:-1 group-title="생방송(대구)",SBS GOLF
-http://39.113.245.63:9981/stream/channelid/910944789
-#EXTINF:-1 group-title="생방송(대구)",JTBC GOLF
-http://39.113.245.63:9981/stream/channelid/627174830
-#EXTINF:-1 group-title="생방송(대구)",OGN
-http://39.113.245.63:9981/stream/channelid/15805096
-#EXTINF:-1 group-title="생방송(대구)",Tooniverse
-http://39.113.245.63:9981/stream/channelid/1451877951
-#EXTINF:-1 group-title="생방송(대구)",디즈니채널
-http://39.113.245.63:9981/stream/channelid/316041733
-#EXTINF:-1 group-title="생방송(대구)",디즈니주니어
-http://39.113.245.63:9981/stream/channelid/411536751
-#EXTINF:-1 group-title="생방송(대구)",Nickelodeon
-http://39.113.245.63:9981/stream/channelid/593076785
-#EXTINF:-1 group-title="생방송(대구)",카툰네트워크
-http://39.113.245.63:9981/stream/channelid/499419588
-#EXTINF:-1 group-title="생방송(대구)",애니플러스
-http://39.113.245.63:9981/stream/channelid/1654595244
-#EXTINF:-1 group-title="생방송(대구)",애니박스
-http://39.113.245.63:9981/stream/channelid/694102454
-#EXTINF:-1 group-title="생방송(대구)",뽀요TV
-http://39.113.245.63:9981/stream/channelid/394612098
-#EXTINF:-1 group-title="생방송(대구)",캐리TV
-http://39.113.245.63:9981/stream/channelid/414688040
-#EXTINF:-1 group-title="생방송(대구)",신기한나라TV
-http://39.113.245.63:9981/stream/channelid/759521896
-#EXTINF:-1 group-title="생방송(대구)",키즈톡톡 플러스
-http://39.113.245.63:9981/stream/channelid/118852429
-#EXTINF:-1 group-title="생방송(대구)",KBS KIDS
-http://39.113.245.63:9981/stream/channelid/536885938
-#EXTINF:-1 group-title="생방송(대구)",어린이TV
-http://39.113.245.63:9981/stream/channelid/1404473052
-#EXTINF:-1 group-title="생방송(대구)",EBS kids
-http://39.113.245.63:9981/stream/channelid/2016479963
-#EXTINF:-1 group-title="생방송(대구)",On style
-http://39.113.245.63:9981/stream/channelid/538194954
-#EXTINF:-1 group-title="생방송(대구)",라이프타임
-http://39.113.245.63:9981/stream/channelid/1077600984
-#EXTINF:-1 group-title="생방송(대구)",KBS W
-http://39.113.245.63:9981/stream/channelid/1405633080
-#EXTINF:-1 group-title="생방송(대구)",OBSW
-http://39.113.245.63:9981/stream/channelid/615453479
-#EXTINF:-1 group-title="생방송(대구)",SBS MTV
-http://39.113.245.63:9981/stream/channelid/2056134238
-#EXTINF:-1 group-title="생방송(대구)",MBC Music
-http://39.113.245.63:9981/stream/channelid/1162790205
-#EXTINF:-1 group-title="생방송(대구)",sky Travel
-http://39.113.245.63:9981/stream/channelid/95775716
-#EXTINF:-1 group-title="생방송(대구)",NGC
-http://39.113.245.63:9981/stream/channelid/304027401
-#EXTINF:-1 group-title="생방송(대구)",Natgeo Wild HD
-http://39.113.245.63:9981/stream/channelid/776580311
-#EXTINF:-1 group-title="생방송(대구)",국방TV
-http://39.113.245.63:9981/stream/channelid/1344361680
-#EXTINF:-1 group-title="생방송(대구)",KTV
-http://39.113.245.63:9981/stream/channelid/1995299338
-#EXTINF:-1 group-title="생방송(대구)",국회방송
-http://39.113.245.63:9981/stream/channelid/151461926
+#EXTM3U
+#EXTINF:-1 group-title="생방송(인천)",SBS Plus
+http://58.122.115.168:9991/stream/channelid/95420948
+#EXTINF:-1 group-title="생방송(인천)",SBS
+http://58.122.115.168:9991/stream/channelid/1411450993
+#EXTINF:-1 group-title="생방송(인천)",KBS2
+http://58.122.115.168:9991/stream/channelid/263105321
+#EXTINF:-1 group-title="생방송(인천)",KBS1
+http://58.122.115.168:9991/stream/channelid/67926438
+#EXTINF:-1 group-title="생방송(인천)",MBC
+http://58.122.115.168:9991/stream/channelid/925359549
+#EXTINF:-1 group-title="생방송(인천)",EBS
+http://58.122.115.168:9991/stream/channelid/154369579
+#EXTINF:-1 group-title="생방송(인천)",JTBC
+http://58.122.115.168:9991/stream/channelid/726298525
+#EXTINF:-1 group-title="생방송(인천)",MBN
+http://58.122.115.168:9991/stream/channelid/42363443
+#EXTINF:-1 group-title="생방송(인천)",tvN
+http://58.122.115.168:9991/stream/channelid/173808761
+#EXTINF:-1 group-title="생방송(인천)",채널A
+http://58.122.115.168:9991/stream/channelid/1993712297
+#EXTINF:-1 group-title="생방송(인천)",TV조선
+http://58.122.115.168:9991/stream/channelid/235410031
+#EXTINF:-1 group-title="생방송(인천)",OBS
+http://58.122.115.168:9991/stream/channelid/365115104
+#EXTINF:-1 group-title="생방송(인천)",연합뉴스TV
+http://58.122.115.168:9991/stream/channelid/473175734
+#EXTINF:-1 group-title="생방송(인천)",YTN
+http://58.122.115.168:9991/stream/channelid/2062723264
+#EXTINF:-1 group-title="생방송(인천)",Mnet
+http://58.122.115.168:9991/stream/channelid/410522448
+#EXTINF:-1 group-title="생방송(인천)",MBC Every1
+http://58.122.115.168:9991/stream/channelid/209385816
+#EXTINF:-1 group-title="생방송(인천)",OCN
+http://58.122.115.168:9991/stream/channelid/920394937
+#EXTINF:-1 group-title="생방송(인천)",UXN
+http://58.122.115.168:9991/stream/channelid/359049804
+#EXTINF:-1 group-title="생방송(인천)",UHD Dream TV
+http://58.122.115.168:9991/stream/channelid/621236866
+#EXTINF:-1 group-title="생방송(인천)",Asia UHD
+http://58.122.115.168:9991/stream/channelid/970469821
+#EXTINF:-1 group-title="생방송(인천)",UMAX
+http://58.122.115.168:9991/stream/channelid/608825313
+#EXTINF:-1 group-title="생방송(인천)",DOG TV
+http://58.122.115.168:9991/stream/channelid/638075745
+#EXTINF:-1 group-title="생방송(인천)",KBS JOY
+http://58.122.115.168:9991/stream/channelid/711874050
+#EXTINF:-1 group-title="생방송(인천)",SBS funE
+http://58.122.115.168:9991/stream/channelid/544714933
+#EXTINF:-1 group-title="생방송(인천)",JTBC2
+http://58.122.115.168:9991/stream/channelid/898053365
+#EXTINF:-1 group-title="생방송(인천)",E채널
+http://58.122.115.168:9991/stream/channelid/1117064588
+#EXTINF:-1 group-title="생방송(인천)",올리브
+http://58.122.115.168:9991/stream/channelid/2002035064
+#EXTINF:-1 group-title="생방송(인천)",XtvN
+http://58.122.115.168:9991/stream/channelid/2012806422
+#EXTINF:-1 group-title="생방송(인천)",코미디TV
+http://58.122.115.168:9991/stream/channelid/453174244
+#EXTINF:-1 group-title="생방송(인천)",K STAR
+http://58.122.115.168:9991/stream/channelid/491748909
+#EXTINF:-1 group-title="생방송(인천)",CUBE TV
+http://58.122.115.168:9991/stream/channelid/1335668873
+#EXTINF:-1 group-title="생방송(인천)",MyPet
+http://58.122.115.168:9991/stream/channelid/1568067736
+#EXTINF:-1 group-title="생방송(인천)",SkyPetPark
+http://58.122.115.168:9991/stream/channelid/999925023
+#EXTINF:-1 group-title="생방송(인천)",EBS2
+http://58.122.115.168:9991/stream/channelid/256237092
+#EXTINF:-1 group-title="생방송(인천)",DIA TV
+http://58.122.115.168:9991/stream/channelid/1749091450
+#EXTINF:-1 group-title="생방송(인천)",MBN Plus
+http://58.122.115.168:9991/stream/channelid/1406105109
+#EXTINF:-1 group-title="생방송(인천)",AMC
+http://58.122.115.168:9991/stream/channelid/644357638
+#EXTINF:-1 group-title="생방송(인천)",FOX
+http://58.122.115.168:9991/stream/channelid/585840899
+#EXTINF:-1 group-title="생방송(인천)",AsiaN
+http://58.122.115.168:9991/stream/channelid/875826528
+#EXTINF:-1 group-title="생방송(인천)",채널차이나
+http://58.122.115.168:9991/stream/channelid/411936340
+#EXTINF:-1 group-title="생방송(인천)",SPOTV
+http://58.122.115.168:9991/stream/channelid/1505148322
+#EXTINF:-1 group-title="생방송(인천)",spotv
+http://58.122.115.168:9991/stream/channelid/1526164194
+#EXTINF:-1 group-title="생방송(인천)",KBS N Sports
+http://58.122.115.168:9991/stream/channelid/418949814
+#EXTINF:-1 group-title="생방송(인천)",SBS Sports
+http://58.122.115.168:9991/stream/channelid/224066808
+#EXTINF:-1 group-title="생방송(인천)",MBC SPORTS+
+http://58.122.115.168:9991/stream/channelid/1820011130
+#EXTINF:-1 group-title="생방송(인천)",MBC SPORTS+2
+http://58.122.115.168:9991/stream/channelid/305892134
+#EXTINF:-1 group-title="생방송(인천)",SkySports
+http://58.122.115.168:9991/stream/channelid/1845339352
+#EXTINF:-1 group-title="생방송(인천)",JTBC3
+http://58.122.115.168:9991/stream/channelid/480754684
+#EXTINF:-1 group-title="생방송(인천)",SPOTV+
+http://58.122.115.168:9991/stream/channelid/1272249137
+#EXTINF:-1 group-title="생방송(인천)",SPOTV2
+http://58.122.115.168:9991/stream/channelid/562178281
+#EXTINF:-1 group-title="생방송(인천)",IB SPORTS
+http://58.122.115.168:9991/stream/channelid/1561783700
+#EXTINF:-1 group-title="생방송(인천)",빌리어즈티비
+http://58.122.115.168:9991/stream/channelid/847564606
+#EXTINF:-1 group-title="생방송(인천)",OGN
+http://58.122.115.168:9991/stream/channelid/1584765772
+#EXTINF:-1 group-title="생방송(인천)",토마토TV
+http://58.122.115.168:9991/stream/channelid/1942373671
+#EXTINF:-1 group-title="생방송(인천)",YTN life
+http://58.122.115.168:9991/stream/channelid/1786057777
+#EXTINF:-1 group-title="생방송(인천)",CNN International
+http://58.122.115.168:9991/stream/channelid/1606311389
+#EXTINF:-1 group-title="생방송(인천)",부메랑
+http://58.122.115.168:9991/stream/channelid/692330087
+#EXTINF:-1 group-title="생방송(인천)",CN
+http://58.122.115.168:9991/stream/channelid/546960186
+#EXTINF:-1 group-title="생방송(인천)",EBS u
+http://58.122.115.168:9991/stream/channelid/1127342461
+#EXTINF:-1 group-title="생방송(인천)",Baby TV
+http://58.122.115.168:9991/stream/channelid/545746453
+#EXTINF:-1 group-title="생방송(인천)",JEI EnglishTV
+http://58.122.115.168:9991/stream/channelid/1179238988
+#EXTINF:-1 group-title="생방송(인천)",ebsi
+http://58.122.115.168:9991/stream/channelid/824110703
+#EXTINF:-1 group-title="생방송(인천)",ebs+2
+http://58.122.115.168:9991/stream/channelid/1295199774
+#EXTINF:-1 group-title="생방송(인천)",온스타일
+http://58.122.115.168:9991/stream/channelid/471132553
+#EXTINF:-1 group-title="생방송(인천)",Lifetime
+http://58.122.115.168:9991/stream/channelid/1637695301
+#EXTINF:-1 group-title="생방송(인천)",동아TV
+http://58.122.115.168:9991/stream/channelid/287151966
+#EXTINF:-1 group-title="생방송(인천)",OBS W
+http://58.122.115.168:9991/stream/channelid/1670210442
+#EXTINF:-1 group-title="생방송(인천)",JTBC4
+http://58.122.115.168:9991/stream/channelid/793750287
+#EXTINF:-1 group-title="생방송(인천)",SBS MTV
+http://58.122.115.168:9991/stream/channelid/13988517
+#EXTINF:-1 group-title="생방송(인천)",MBC MUSIC
+http://58.122.115.168:9991/stream/channelid/1159921847
+#EXTINF:-1 group-title="생방송(인천)",예술 TV아르떼
+http://58.122.115.168:9991/stream/channelid/659481543
+#EXTINF:-1 group-title="생방송(인천)",CLASSICA
+http://58.122.115.168:9991/stream/channelid/1768373255
+#EXTINF:-1 group-title="생방송(인천)",i-Concerts
+http://58.122.115.168:9991/stream/channelid/625606541
+#EXTINF:-1 group-title="생방송(인천)",Music TV
+http://58.122.115.168:9991/stream/channelid/819393595
+#EXTINF:-1 group-title="생방송(인천)",BET
+http://58.122.115.168:9991/stream/channelid/1833606471
+#EXTINF:-1 group-title="생방송(인천)",브레인TV
+http://58.122.115.168:9991/stream/channelid/2100253194
+#EXTINF:-1 group-title="생방송(인천)",SkyTravel
+http://58.122.115.168:9991/stream/channelid/889934185
+#EXTINF:-1 group-title="생방송(인천)",마운틴TV
+http://58.122.115.168:9991/stream/channelid/303307374
+#EXTINF:-1 group-title="생방송(인천)",폴라리스TV
+http://58.122.115.168:9991/stream/channelid/589217082
+#EXTINF:-1 group-title="생방송(인천)",NGC
+http://58.122.115.168:9991/stream/channelid/1231908590
+#EXTINF:-1 group-title="생방송(인천)",디스커버리채널
+http://58.122.115.168:9991/stream/channelid/1922304211
+#EXTINF:-1 group-title="생방송(인천)",YTN 사이언스
+http://58.122.115.168:9991/stream/channelid/1476508555
+#EXTINF:-1 group-title="생방송(인천)",NatGeo People
+http://58.122.115.168:9991/stream/channelid/1949573734
+#EXTINF:-1 group-title="생방송(인천)",History
+http://58.122.115.168:9991/stream/channelid/68378337
+#EXTINF:-1 group-title="생방송(인천)",BBC Earth
+http://58.122.115.168:9991/stream/channelid/699249760
+#EXTINF:-1 group-title="생방송(인천)",NatGeo Wild
+http://58.122.115.168:9991/stream/channelid/1477763092
+#EXTINF:-1 group-title="생방송(인천)",헬스메디tv
+http://58.122.115.168:9991/stream/channelid/1255096860
+#EXTINF:-1 group-title="생방송(인천)",쿠키건강TV
+http://58.122.115.168:9991/stream/channelid/1190590732
+#EXTINF:-1 group-title="생방송(인천)",아리랑 TV
+http://58.122.115.168:9991/stream/channelid/1030701969
+#EXTINF:-1 group-title="생방송(인천)",KTV
+http://58.122.115.168:9991/stream/channelid/745182760
+#EXTINF:-1 group-title="생방송(인천)",BTN불교TV
+http://58.122.115.168:9991/stream/channelid/1512796046
+#EXTINF:-1 group-title="생방송(인천)",BBS 불교방송
+http://58.122.115.168:9991/stream/channelid/563847229
+#EXTINF:-1 group-title="생방송(인천)",WBS원음방송
+http://58.122.115.168:9991/stream/channelid/1537318745
 
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV",CCTV-1综合
