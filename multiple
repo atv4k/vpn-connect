@@ -78,6 +78,96 @@ http://1.244.176.6:9981/stream/channelid/1202757007
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",mplex
 http://1.244.176.6:9981/stream/channelid/1711476292
 
+#EXTINF:-1 group-title="생방송(중평)",KBS1
+http://1.254.215.91:9981/stream/channelid/1902596316
+#EXTINF:-1 group-title="생방송(중평)",MBC SPORTS+
+http://1.254.215.91:9981/stream/channelid/1953509377
+#EXTINF:-1 group-title="생방송(중평)",SBS
+http://1.254.215.91:9981/stream/channelid/567292862
+#EXTINF:-1 group-title="생방송(중평)",SBS Sports
+http://1.254.215.91:9981/stream/channelid/1247547685
+#EXTINF:-1 group-title="생방송(중평)",SPOTV+
+http://1.254.215.91:9981/stream/channelid/1571475378
+#EXTINF:-1 group-title="생방송(중평)",KBS2
+http://1.254.215.91:9981/stream/channelid/1484531199
+#EXTINF:-1 group-title="생방송(중평)",Music Choice | 90S
+http://1.254.215.91:9981/stream/channelid/479364900
+#EXTINF:-1 group-title="생방송(중평)",Music Choice | ALTERNATIVE
+http://1.254.215.91:9981/stream/channelid/1425770280
+#EXTINF:-1 group-title="생방송(중평)",Music Choice | BRITS-PLUS-HITS
+http://1.254.215.91:9981/stream/channelid/173347444
+#EXTINF:-1 group-title="생방송(중평)",Music Choice | DANCE
+http://1.254.215.91:9981/stream/channelid/2142036722
+#EXTINF:-1 group-title="생방송(중평)",Music Choice | HIP-HOP-AND-RANDB
+http://1.254.215.91:9981/stream/channelid/1631178691
+#EXTINF:-1 group-title="생방송(중평)",Music Choice | HIT-LIST
+http://1.254.215.91:9981/stream/channelid/172447758
+#EXTINF:-1 group-title="생방송(중평)",Music Choice | HOLIDAY-HITS
+http://1.254.215.91:9981/stream/channelid/1132688274
+#EXTINF:-1 group-title="생방송(중평)",Music Choice | INDIE
+http://1.254.215.91:9981/stream/channelid/1953835774
+#EXTINF:-1 group-title="생방송(중평)",Music Choice | METAL
+http://1.254.215.91:9981/stream/channelid/790435016
+#EXTINF:-1 group-title="생방송(중평)",Music Choice | Music Choice | -URBANA
+http://1.254.215.91:9981/stream/channelid/1267696249
+#EXTINF:-1 group-title="생방송(중평)",Music Choice | POP-AND-COUNTRY
+http://1.254.215.91:9981/stream/channelid/241495700
+#EXTINF:-1 group-title="생방송(중평)",Music Choice | POP-HITS
+http://1.254.215.91:9981/stream/channelid/517031331
+#EXTINF:-1 group-title="생방송(중평)",Music Choice | POP-LATINO
+http://1.254.215.91:9981/stream/channelid/1508575488
+#EXTINF:-1 group-title="생방송(중평)",Music Choice | RANDB-SOUL
+http://1.254.215.91:9981/stream/channelid/1397945219
+#EXTINF:-1 group-title="생방송(중평)",Music Choice | RAP
+http://1.254.215.91:9981/stream/channelid/2046102900
+#EXTINF:-1 group-title="생방송(중평)",Music Choice | ROCK
+http://1.254.215.91:9981/stream/channelid/2079495252
+#EXTINF:-1 group-title="생방송(중평)",Music Choice | TEEN-BEATS
+http://1.254.215.91:9981/stream/channelid/1384962778
+#EXTINF:-1 group-title="생방송(중평)",Music Choice | THROWBACK-JAMZ
+http://1.254.215.91:9981/stream/channelid/1620053662
+#EXTINF:-1 group-title="생방송(중평)",Music Choice | TODAYS-COUNTRY https://iptv.live
+http://1.254.215.91:9981/stream/channelid/1817268129
+#EXTINF:-1 group-title="생방송(중평)",Music Choice | TODDLER-TUNES
+http://1.254.215.91:9981/stream/channelid/1422788782
+#EXTINF:-1 group-title="생방송(중평)",Music Choice | Y2K
+http://1.254.215.91:9981/stream/channelid/1259628970
+#EXTINF:-1 group-title="생방송(중평)",Rafa MX Azteca 7 SD
+http://1.254.215.91:9981/stream/channelid/1298955485
+#EXTINF:-1 group-title="생방송(중평)",Rafa MX Cinemax SD
+http://1.254.215.91:9981/stream/channelid/524925732
+#EXTINF:-1 group-title="생방송(중평)",Rafa MX HBO 2 SD
+http://1.254.215.91:9981/stream/channelid/1083957685
+#EXTINF:-1 group-title="생방송(중평)",RAFA USA FXX
+http://1.254.215.91:9981/stream/channelid/1850979908
+#EXTINF:-1 group-title="생방송(중평)",RAFA USA HBO Signature
+http://1.254.215.91:9981/stream/channelid/657214935
+#EXTINF:-1 group-title="생방송(중평)",RAFA USA MSNBC
+http://1.254.215.91:9981/stream/channelid/1878364640
+#EXTINF:-1 group-title="생방송(중평)",RAFA USA TBS
+http://1.254.215.91:9981/stream/channelid/1752066434
+#EXTINF:-1 group-title="생방송(중평)",RAFA USA Telemundo New York
+http://1.254.215.91:9981/stream/channelid/411228320
+#EXTINF:-1 group-title="생방송(중평)",RAFA USA Telemundo Tucson
+http://1.254.215.91:9981/stream/channelid/707032493
+#EXTINF:-1 group-title="생방송(중평)",TOTALPLAY SD | BLOOMBERG SD
+http://1.254.215.91:9981/stream/channelid/173772768
+#EXTINF:-1 group-title="생방송(중평)",TOTALPLAY SD | Satellite TV
+http://1.254.215.91:9981/stream/channelid/1324174788
+#EXTINF:-1 group-title="생방송(중평)",TOTALPLAY SD | CNN EN ESPAÑOL SD
+http://1.254.215.91:9981/stream/channelid/78771106
+#EXTINF:-1 group-title="생방송(중평)",TOTALPLAY SD | EL GOURMET SD
+http://1.254.215.91:9981/stream/channelid/575506481
+#EXTINF:-1 group-title="생방송(중평)",TOTALPLAY SD | FOX SPORTS 2 SD
+http://1.254.215.91:9981/stream/channelid/1744632779
+#EXTINF:-1 group-title="생방송(중평)",TOTALPLAY SD | GLITZ SD
+http://1.254.215.91:9981/stream/channelid/1620692346
+#EXTINF:-1 group-title="생방송(중평)",TOTALPLAY SD | INVETIGATION DISCOVERY SD
+http://1.254.215.91:9981/stream/channelid/477441218
+#EXTINF:-1 group-title="생방송(중평)",TOTALPLAY SD | ULTRA CINE
+http://1.254.215.91:9981/stream/channelid/1239462330
+
+
 #EXTINF:-1 tvg-id="458" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="지리과학",国家地理HD
 http://pili-live-hdl.qhmywl.com/dsdtv/1b4017a457de80eec599895ec807e124.flv
 #EXTINF:-1 tvg-id="427" tvg-name="国家地理野生频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png" group-title="지리과학",国家地理野生
