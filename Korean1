@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1,KBS1
+http://1.254.215.91:9981/stream/channelid/1902596316
+#EXTINF:-1,MBC SPORTS+
+http://1.254.215.91:9981/stream/channelid/1953509377
+#EXTINF:-1,SBS
+http://1.254.215.91:9981/stream/channelid/567292862
+#EXTINF:-1,SBS Sports
+http://1.254.215.91:9981/stream/channelid/1247547685
+#EXTINF:-1,SPOTV+
+http://1.254.215.91:9981/stream/channelid/1571475378
+#EXTINF:-1,KBS2
+http://1.254.215.91:9981/stream/channelid/1484531199
 #EXTINF:-1,Music Choice | 90S
 http://1.254.215.91:9981/stream/channelid/479364900
 #EXTINF:-1,Music Choice | ALTERNATIVE
@@ -75,15 +87,3 @@ http://1.254.215.91:9981/stream/channelid/1620692346
 http://1.254.215.91:9981/stream/channelid/477441218
 #EXTINF:-1,TOTALPLAY SD | ULTRA CINE
 http://1.254.215.91:9981/stream/channelid/1239462330
-#EXTINF:-1,KBS1
-http://1.254.215.91:9981/stream/channelid/1902596316
-#EXTINF:-1,MBC SPORTS+
-http://1.254.215.91:9981/stream/channelid/1953509377
-#EXTINF:-1,SBS
-http://1.254.215.91:9981/stream/channelid/567292862
-#EXTINF:-1,SBS Sports
-http://1.254.215.91:9981/stream/channelid/1247547685
-#EXTINF:-1,SPOTV+
-http://1.254.215.91:9981/stream/channelid/1571475378
-#EXTINF:-1,KBS2
-http://1.254.215.91:9981/stream/channelid/1484531199
