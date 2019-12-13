@@ -78,6 +78,14 @@ http://1.244.176.6:9981/stream/channelid/1202757007
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",mplex
 http://1.244.176.6:9981/stream/channelid/1711476292
 
+#EXTINF:-1 group-title="생방송(서울)",KBS1
+http://121.136.223.243:9981/stream/channelid/1344561804
+#EXTINF:-1 group-title="생방송(서울)",KBS2
+http://121.136.223.243:9981/stream/channelid/991574849
+#EXTINF:-1 group-title="생방송(서울)",MBC
+http://121.136.223.243:9981/stream/channelid/796979705
+#EXTINF:-1 group-title="생방송(서울)",SBS
+http://121.136.223.243:9981/stream/channelid/669301651
 
 #EXTINF:-1 tvg-id="458" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="지리과학",国家地理HD
 http://pili-live-hdl.qhmywl.com/dsdtv/1b4017a457de80eec599895ec807e124.flv
