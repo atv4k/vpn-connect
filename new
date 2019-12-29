@@ -8,81 +8,81 @@ http://121.136.223.243:9981/stream/channelid/796979705
 #EXTINF:-1 group-title="생방송(서울)",SBS
 http://121.136.223.243:9981/stream/channelid/669301651
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",KBS1
+#EXTINF:-1  group-title="생방송(일산)",KBS1
 http://1.244.176.6:9981/stream/channelid/785092464
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",KBS2
+#EXTINF:-1  group-title="생방송(일산)",KBS2
 http://1.244.176.6:9981/stream/channelid/128798532
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",SBS
+#EXTINF:-1  group-title="생방송(일산)",SBS
 http://1.244.176.6:9981/stream/channelid/1897415383
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",MBC
+#EXTINF:-1  group-title="생방송(일산)",MBC
 http://1.244.176.6:9981/stream/channelid/615658509
 #EXTINF:-1 tvg-id="6159" tvg-name="tvN",tvN
 http://1.244.176.6:9981/stream/channelid/107998046
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",OCN
+#EXTINF:-1  group-title="생방송(일산)",OCN
 http://1.244.176.6:9981/stream/channelid/1701308724
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",채널CGV
+#EXTINF:-1  group-title="생방송(일산)",채널CGV
 http://1.244.176.6:9981/stream/channelid/316613918
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",TV조선
+#EXTINF:-1  group-title="생방송(일산)",TV조선
 http://1.244.176.6:9981/stream/channelid/1402023867
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",Mnet
+#EXTINF:-1  group-title="생방송(일산)",Mnet
 http://1.244.176.6:9981/stream/channelid/16957608
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",YTN
+#EXTINF:-1  group-title="생방송(일산)",YTN
 http://1.244.176.6:9981/stream/channelid/162123830
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",JTBC
+#EXTINF:-1  group-title="생방송(일산)",JTBC
 http://1.244.176.6:9981/stream/channelid/1541302304
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",JTBC2
+#EXTINF:-1  group-title="생방송(일산)",JTBC2
 http://1.244.176.6:9981/stream/channelid/1911746500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",EBS
+#EXTINF:-1  group-title="생방송(일산)",EBS
 http://1.244.176.6:9981/stream/channelid/1443386785
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",EBS2
+#EXTINF:-1  group-title="생방송(일산)",EBS2
 http://1.244.176.6:9981/stream/channelid/104967667
 #EXTINF:-1 tvg-id="6159" tvg-name="tvN" ,O tvN
 http://1.244.176.6:9981/stream/channelid/376415281
 #EXTINF:-1 tvg-id="6159" tvg-name="tvN",XtvN
 http://1.244.176.6:9981/stream/channelid/1173057516
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",MBC Every1
+#EXTINF:-1  group-title="생방송(일산)",MBC Every1
 http://1.244.176.6:9981/stream/channelid/1170207033
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",KBS W
+#EXTINF:-1  group-title="생방송(일산)",KBS W
 http://1.244.176.6:9981/stream/channelid/681774910
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",SBS funE
+#EXTINF:-1  group-title="생방송(일산)",SBS funE
 http://1.244.176.6:9981/stream/channelid/983522178
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",SBS Plus
+#EXTINF:-1  group-title="생방송(일산)",SBS Plus
 http://1.244.176.6:9981/stream/channelid/568739771
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",KBS JOY
+#EXTINF:-1  group-title="생방송(일산)",KBS JOY
 http://1.244.176.6:9981/stream/channelid/519823569
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",SBS MTV
+#EXTINF:-1  group-title="생방송(일산)",SBS MTV
 http://1.244.176.6:9981/stream/channelid/199359483
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",KBS DRAMA
+#EXTINF:-1  group-title="생방송(일산)",KBS DRAMA
 http://1.244.176.6:9981/stream/channelid/1633642825
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",니켈로디언
+#EXTINF:-1  group-title="생방송(일산)",니켈로디언
 http://1.244.176.6:9981/stream/channelid/3885219
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",디즈니주니어
+#EXTINF:-1  group-title="생방송(일산)",디즈니주니어
 http://1.244.176.6:9981/stream/channelid/233506495
 #EXTINF:-1 tvg-id="6041" tvg-name="Disney" ,Disney Channel
 http://1.244.176.6:9981/stream/channelid/1364790193
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",Tooniverse
+#EXTINF:-1  group-title="생방송(일산)",Tooniverse
 http://1.244.176.6:9981/stream/channelid/940759488
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",애니박스
+#EXTINF:-1  group-title="생방송(일산)",애니박스
 http://1.244.176.6:9981/stream/channelid/919527574
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",애니플러스
+#EXTINF:-1  group-title="생방송(일산)",애니플러스
 http://1.244.176.6:9981/stream/channelid/1606509923
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",애니원
+#EXTINF:-1  group-title="생방송(일산)",애니원
 http://1.244.176.6:9981/stream/channelid/1273715263
 #EXTINF:-1 tvg-id="7238" tvg-name="Animax" ,ANIMAX
 http://1.244.176.6:9981/stream/channelid/2018783345
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",KBS kids
+#EXTINF:-1  group-title="생방송(일산)",KBS kids
 http://1.244.176.6:9981/stream/channelid/1743778348
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",EBS kids
+#EXTINF:-1  group-title="생방송(일산)",EBS kids
 http://1.244.176.6:9981/stream/channelid/1630163166
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",대교 어린이TV
+#EXTINF:-1  group-title="생방송(일산)",대교 어린이TV
 http://1.244.176.6:9981/stream/channelid/614676835
 #EXTINF:-1 tvg-id="708" tvg-name="BabyTV" ,Baby TV
 http://1.244.176.6:9981/stream/channelid/409221426
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",슈퍼액션
+#EXTINF:-1  group-title="생방송(일산)",슈퍼액션
 http://1.244.176.6:9981/stream/channelid/1090555968
 #EXTINF:-1 tvg-id="6097" tvg-name="FOX" ,FOX
 http://1.244.176.6:9981/stream/channelid/1976742071
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",채널차이나
+#EXTINF:-1  group-title="생방송(일산)",채널차이나
 http://1.244.176.6:9981/stream/channelid/1202757007
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="생방송(일산)",mplex
+#EXTINF:-1  group-title="생방송(일산)",mplex
 http://1.244.176.6:9981/stream/channelid/1711476292
