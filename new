@@ -573,3 +573,125 @@ rtsp://61.156.103.73:554/PLTV/88888888/224/3221226291/10000100000000060000000000
 rtsp://61.156.103.73:554/PLTV/88888888/224/3221226392/10000100000000060000000001090740_0.smil
 #EXTINF:-1 group-title="중국",淄博科教
 rtsp://61.156.103.73:554/PLTV/88888888/224/3221226386/10000100000000060000000001090738_0.smil
+
+
+#EXTINF:-1 group-title="港澳台",国家地理野生
+http://pili-live-hdl.qhmywl.com/dsdtv/a4540237835700ece1fc1e54ce826125.flv
+#EXTINF:-1 group-title="港澳台",美食星球
+http://pili-live-hdl.qhmywl.com/dsdtv/7f2e2b78b85222886ccb3792c905408e.flv
+#EXTINF:-1 group-title="港澳台",E!好莱坞娱乐频道
+http://pili-live-hdl.qhmywl.com/dsdtv/284df67673a590b64593e0127029b0b2.flv
+#EXTINF:-1 group-title="港澳台",BBC Lifestyle
+http://pili-live-hdl.qhmywl.com/dsdtv/5e80f4a9e17c991df381030c65856687.flv
+#EXTINF:-1 group-title="港澳台",Channel V
+http://pili-live-hdl.qhmywl.com/dsdtv/c8ade260941e368acfdb110a04811b3e.flv
+#EXTINF:-1 group-title="港澳台",华视
+http://pili-live-hdl.qhmywl.com/dsdtv/0bdf94d7f68fe3ece32048144cbf9a23.flv
+#EXTINF:-1 group-title="港澳台",中视
+http://pili-live-hdl.qhmywl.com/dsdtv/318e4839a23f9ff15e327de9bcb31687.flv
+#EXTINF:-1 group-title="港澳台",霹雳台湾台
+http://pili-live-hdl.qhmywl.com/dsdtv/14b736ee363e84918a8c43c69691faaa.flv
+#EXTINF:-1 group-title="港澳台",客家电视台
+http://pili-live-hdl.qhmywl.com/dsdtv/9535868a6a173399d3913cab3bb61675.flv
+#EXTINF:-1 group-title="港澳台",三立台湾台
+http://pili-live-hdl.qhmywl.com/dsdtv/e71635b53bb874a085b2a469802bbc81.flv
+#EXTINF:-1 group-title="港澳台",FOX
+http://pili-live-hdl.qhmywl.com/dsdtv/c2c91afe09bad325929734624c19d07b.flv
+#EXTINF:-1 group-title="港澳台",中视经典台
+http://pili-live-hdl.qhmywl.com/dsdtv/75249ac8b464466a9c41c669bd27260a.flv
+#EXTINF:-1 group-title="港澳台",翡翠台
+http://pili-live-hdl.qhmywl.com/dsdtv/b3a93cbbd1908e81783879747bb3090a.flv
+#EXTINF:-1 group-title="港澳台",中天新闻[HD]
+http://pili-live-hdl.qhmywl.com/dsdtv/e1a397539e76f45bbbf39d1467024aa3.flv
+#EXTINF:-1 group-title="港澳台",东森新闻[HD]
+http://pili-live-hdl.qhmywl.com/dsdtv/b237f97b0e9e21e88e0bdaae40730332.flv
+#EXTINF:-1 group-title="港澳台",非凡新闻[HD]
+http://pili-live-hdl.qhmywl.com/dsdtv/408a2834f703f2162d0d5b5789344c39.flv
+#EXTINF:-1 group-title="港澳台",中视新闻[HD]
+http://pili-live-hdl.qhmywl.com/dsdtv/cf4d66edc142b2f0cc8c71bca56b2268.flv
+#EXTINF:-1 group-title="港澳台",寰宇新闻2台
+http://pili-live-hdl.qhmywl.com/dsdtv/0d192b1fb482857fb4694a12c2718302.flv
+#EXTINF:-1 group-title="港澳台",东森财经新闻[HD]
+http://pili-live-hdl.qhmywl.com/dsdtv/10e21c98ff74745141a386d91da24c56.flv
+#EXTINF:-1 group-title="港澳台",SKY NEWS
+http://pili-live-hdl.qhmywl.com/dsdtv/64a4807c0cf482cffe922d7b8f091303.flv
+#EXTINF:-1 group-title="港澳台",BBC World News
+http://pili-live-hdl.qhmywl.com/dsdtv/6d735caeaf70f8901aa00f86aefc4dde.flv
+#EXTINF:-1 group-title="港澳台",靖天电影
+http://pili-live-hdl.qhmywl.com/dsdtv/5634d5c8ee5afeb118df8decf5eb6c56.flv
+#EXTINF:-1 group-title="港澳台",FOX MOVIES[HD]
+http://pili-live-hdl.qhmywl.com/dsdtv/b3d2208824d1ca27dad3068e376ab557.flv
+#EXTINF:-1 group-title="港澳台",CINEMAX
+http://pili-live-hdl.qhmywl.com/dsdtv/9bece52b2f72795cc2f588f3d9e4eed3.flv
+#EXTINF:-1 group-title="港澳台",好莱坞电影[HD]
+http://pili-live-hdl.qhmywl.com/dsdtv/8e678565884cdebd00f8b3121b3b7ee1.flv
+#EXTINF:-1 group-title="港澳台",影迷纪实台
+http://pili-live-hdl.qhmywl.com/dsdtv/a1d2d2be053776bb01c1aac37ac2dee4.flv
+#EXTINF:-1 group-title="港澳台",CatchPlay电影台
+http://pili-live-hdl.qhmywl.com/dsdtv/65e80e1e0cd763a0302d7aa2a1135b0b.flv
+#EXTINF:-1 group-title="港澳台",HBO Hits
+http://pili-live-hdl.qhmywl.com/dsdtv/c971b59822c6a91fab4bad8ca9b45f6b.flv
+#EXTINF:-1 group-title="港澳台",HBO Signature
+http://pili-live-hdl.qhmywl.com/dsdtv/fcdd3a3c591bdd0b07a17a92cb555cc1.flv
+#EXTINF:-1 group-title="港澳台",HBO Family
+http://pili-live-hdl.qhmywl.com/dsdtv/7e7ed5cc99029fd0d27e25009d7abdac.flv
+#EXTINF:-1 group-title="港澳台",LS TIME龙祥电影
+http://pili-live-hdl.qhmywl.com/dsdtv/a5da9875c963d704ac5dd8f866869723.flv
+#EXTINF:-1 group-title="港澳台",卫视电影台
+http://pili-live-hdl.qhmywl.com/dsdtv/4499fb1dcef8c7a9f64276bf71bfc5b4.flv
+#EXTINF:-1 group-title="港澳台",纬来电影
+http://pili-live-hdl.qhmywl.com/dsdtv/4f10b67646969a422a5490deaaabbc69.flv
+#EXTINF:-1 group-title="港澳台",东森电影[HD]
+http://pili-live-hdl.qhmywl.com/dsdtv/d2325cfdfd53364263d307573f78e3ce.flv
+#EXTINF:-1 group-title="港澳台",东森洋片[HD]
+http://pili-live-hdl.qhmywl.com/dsdtv/24b15906d2250c062c0f0b5339e166b2.flv
+#EXTINF:-1 group-title="港澳台",龙华电影
+http://pili-live-hdl.qhmywl.com/dsdtv/0e5dee9e8021ce3b9ec9bb78e9710555.flv
+#EXTINF:-1 group-title="港澳台",龙华经典
+http://pili-live-hdl.qhmywl.com/dsdtv/669a67f26ad4b9f68664bfcaefc9553e.flv
+#EXTINF:-1 group-title="港澳台",龙华洋片
+http://pili-live-hdl.qhmywl.com/dsdtv/b7829653660ec5e84c70e7f3a01e1e6c.flv
+#EXTINF:-1 group-title="港澳台",星卫HD电影
+http://pili-live-hdl.qhmywl.com/dsdtv/41e05f3849c21412aa8b347f18adb3f6.flv
+#EXTINF:-1 group-title="港澳台",美亚电影
+http://pili-live-hdl.qhmywl.com/dsdtv/4a1141f101530bff4fc0e9229625e6b5.flv
+#EXTINF:-1 group-title="港澳台",欧洲电影
+http://pili-live-hdl.qhmywl.com/dsdtv/2d2f46a778c93f01b614213456fc97fc.flv
+#EXTINF:-1 group-title="港澳台",cinemaworld
+http://pili-live-hdl.qhmywl.com/dsdtv/357252de83720e30d40c00bfba69c497.flv
+#EXTINF:-1 group-title="港澳台",DIVA
+http://pili-live-hdl.qhmywl.com/dsdtv/2ff14655a982c6d2be2a8b0c5649d257.flv
+#EXTINF:-1 group-title="港澳台",HBO HD
+http://pili-live-hdl.qhmywl.com/dsdtv/13e83b20bc716e68221da438d761d352.flv
+#EXTINF:-1 group-title="港澳台",Fox Family Movi
+http://pili-live-hdl.qhmywl.com/dsdtv/440b3d3c474813d7ead7d3a795978e69.flv
+#EXTINF:-1 group-title="港澳台",法国时尚台
+http://pili-live-hdl.qhmywl.com/dsdtv/f737108ad740b942b32d751b0577d534.flv
+#EXTINF:-1 group-title="港澳台",博斯高球1[HD]
+http://pili-live-hdl.qhmywl.com/dsdtv/4870a14ca0496e434825594643eea173.flv
+#EXTINF:-1 group-title="港澳台",博斯高球2[HD]
+http://pili-live-hdl.qhmywl.com/dsdtv/9dd0941038e16fd8207f4c485c2fd34b.flv
+#EXTINF:-1 group-title="港澳台",博斯魅力[HD]
+http://pili-live-hdl.qhmywl.com/dsdtv/906ff5c1e590fdc0f41744077f56672a.flv
+#EXTINF:-1 group-title="港澳台",博斯无限[HD]
+http://pili-live-hdl.qhmywl.com/dsdtv/8c9a98717ee9e5136636c3bedbb852b8.flv
+#EXTINF:-1 group-title="港澳台",博斯网球[HD]
+http://pili-live-hdl.qhmywl.com/dsdtv/cf415a2419c61638eefa5eb8c5a65922.flv
+#EXTINF:-1 group-title="港澳台",博斯运动2[HD]
+http://pili-live-hdl.qhmywl.com/dsdtv/c71aa3f9ef9e92531a06863b9a731849.flv
+#EXTINF:-1 group-title="港澳台",博斯运动1[HD]
+http://pili-live-hdl.qhmywl.com/dsdtv/1cebe1e25e9c69e2ed2e1e6012aeb2d3.flv
+#EXTINF:-1 group-title="港澳台",FOX SPORTS[HD]
+http://pili-live-hdl.qhmywl.com/dsdtv/b00b46e382e81efd9902a848c9b89101.flv
+#EXTINF:-1 group-title="港澳台",FOX SPORTS2[HD]
+http://pili-live-hdl.qhmywl.com/dsdtv/a726b0d8db38a23435c5c3ba95507d3e.flv
+#EXTINF:-1 group-title="港澳台",ELEVVEN SPORTS PLUS
+http://pili-live-hdl.qhmywl.com/dsdtv/b599c0682fbb5364078cb9e3093228a6.flv
+#EXTINF:-1 group-title="港澳台",ELEVVEN SPORTS 2
+http://pili-live-hdl.qhmywl.com/dsdtv/94283c6401f80334d9acd488b649830b.flv
+#EXTINF:-1 group-title="港澳台",FOX SPORTS 3
+http://pili-live-hdl.qhmywl.com/dsdtv/1a4ff6880b679dd340e42a9b61fe2d9f.flv
+#EXTINF:-1 group-title="港澳台",纬来体育[HD]
+http://pili-live-hdl.qhmywl.com/dsdtv/464311a99c6465a1f36681b73c62fa83.flv
+#EXTINF:-1 group-title="港澳台",智林体育台
+http://pili-live-hdl.qhmywl.com/dsdtv/12b7289a05d4cb3c2b79f38b030e2548.flv
