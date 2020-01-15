@@ -824,3 +824,199 @@ http://119.39.49.78:6610/001/2/ch00000090990000001076/index.m3u8?virtualDomain=0
 http://119.39.49.78:6610/001/2/ch00000090990000001107/index.m3u8?virtualDomain=0001.live_hls.zte.com
 #EXTINF:-1 group-title="湖南联通",重庆卫视
 http://119.39.49.78:6610/001/2/ch00000090990000001033/index.m3u8?virtualDomain=0001.live_hls.zte.com
+
+
+#EXTINF:-1 group-title="생방송(의정부)",지역채널
+http://221.141.80.116:9981/stream/channelid/313130453
+#EXTINF:-1 group-title="생방송(의정부)",MBC드라마넷
+http://221.141.80.116:9981/stream/channelid/460036654
+#EXTINF:-1 group-title="생방송(의정부)",GS홈쇼핑
+http://221.141.80.116:9981/stream/channelid/1824538280
+#EXTINF:-1 group-title="생방송(의정부)",CJB-HD(SBS청주지역방송)
+http://221.141.80.116:9981/stream/channelid/2091983247
+#EXTINF:-1 group-title="생방송(의정부)",CJ홈쇼핑
+http://221.141.80.116:9981/stream/channelid/1326182786
+#EXTINF:-1 group-title="생방송(의정부)",KBS2청주
+http://221.141.80.116:9981/stream/channelid/2126356036
+#EXTINF:-1 group-title="생방송(의정부)",현대홈쇼핑
+http://221.141.80.116:9981/stream/channelid/1655442529
+#EXTINF:-1 group-title="생방송(의정부)",KBS1 충주
+http://221.141.80.116:9981/stream/channelid/205935305
+#EXTINF:-1 group-title="생방송(의정부)",롯데홈쇼핑
+http://221.141.80.116:9981/stream/channelid/1471930106
+#EXTINF:-1 group-title="생방송(의정부)",MBC충주
+http://221.141.80.116:9981/stream/channelid/567231680
+#EXTINF:-1 group-title="생방송(의정부)",JTBC
+http://221.141.80.116:9981/stream/channelid/1260975739
+#EXTINF:-1 group-title="생방송(의정부)",EBS1
+http://221.141.80.116:9981/stream/channelid/1215331054
+#EXTINF:-1 group-title="생방송(의정부)",EBS2
+http://221.141.80.116:9981/stream/channelid/722707762
+#EXTINF:-1 group-title="생방송(의정부)",NS홈쇼핑
+http://221.141.80.116:9981/stream/channelid/1495877419
+#EXTINF:-1 group-title="생방송(의정부)",tvN
+http://221.141.80.116:9981/stream/channelid/1704847426
+#EXTINF:-1 group-title="생방송(의정부)",채널A
+http://221.141.80.116:9981/stream/channelid/565728247
+#EXTINF:-1 group-title="생방송(의정부)",홈앤쇼핑
+http://221.141.80.116:9981/stream/channelid/828230277
+#EXTINF:-1 group-title="생방송(의정부)",MBN
+http://221.141.80.116:9981/stream/channelid/1629408409
+#EXTINF:-1 group-title="생방송(의정부)",TV조선
+http://221.141.80.116:9981/stream/channelid/2132669683
+#EXTINF:-1 group-title="생방송(의정부)",공영쇼핑
+http://221.141.80.116:9981/stream/channelid/1530406264
+#EXTINF:-1 group-title="생방송(의정부)",월드이벤트TV
+http://221.141.80.116:9981/stream/channelid/1513533113
+#EXTINF:-1 group-title="생방송(의정부)",e채널
+http://221.141.80.116:9981/stream/channelid/1031951216
+#EXTINF:-1 group-title="생방송(의정부)",뉴스Y
+http://221.141.80.116:9981/stream/channelid/1001281510
+#EXTINF:-1 group-title="생방송(의정부)",YTN
+http://221.141.80.116:9981/stream/channelid/749277762
+#EXTINF:-1 group-title="생방송(의정부)",한국경제TV
+http://221.141.80.116:9981/stream/channelid/46617758
+#EXTINF:-1 group-title="생방송(의정부)",디원
+http://221.141.80.116:9981/stream/channelid/2142175244
+#EXTINF:-1 group-title="생방송(의정부)",CMC
+http://221.141.80.116:9981/stream/channelid/1803884119
+#EXTINF:-1 group-title="생방송(의정부)",엣지TV
+http://221.141.80.116:9981/stream/channelid/438784172
+#EXTINF:-1 group-title="생방송(의정부)",Fun TV
+http://221.141.80.116:9981/stream/channelid/1048675934
+#EXTINF:-1 group-title="생방송(의정부)",CNTV
+http://221.141.80.116:9981/stream/channelid/877619472
+#EXTINF:-1 group-title="생방송(의정부)",드라마 H
+http://221.141.80.116:9981/stream/channelid/30571432
+#EXTINF:-1 group-title="생방송(의정부)",SBS플러스
+http://221.141.80.116:9981/stream/channelid/441593143
+#EXTINF:-1 group-title="생방송(의정부)",채널 칭
+http://221.141.80.116:9981/stream/channelid/2012842346
+#EXTINF:-1 group-title="생방송(의정부)",OCN
+http://221.141.80.116:9981/stream/channelid/1775239853
+#EXTINF:-1 group-title="생방송(의정부)",CH CGV
+http://221.141.80.116:9981/stream/channelid/708491051
+#EXTINF:-1 group-title="생방송(의정부)",슈퍼액션
+http://221.141.80.116:9981/stream/channelid/596817027
+#EXTINF:-1 group-title="생방송(의정부)",스크린
+http://221.141.80.116:9981/stream/channelid/1746891948
+#EXTINF:-1 group-title="생방송(의정부)",Mnet
+http://221.141.80.116:9981/stream/channelid/1842648094
+#EXTINF:-1 group-title="생방송(의정부)",STB상생방송
+http://221.141.80.116:9981/stream/channelid/1461591412
+#EXTINF:-1 group-title="생방송(의정부)",XtvN
+http://221.141.80.116:9981/stream/channelid/326398652
+#EXTINF:-1 group-title="생방송(의정부)",투니버스
+http://221.141.80.116:9981/stream/channelid/2009549381
+#EXTINF:-1 group-title="생방송(의정부)",온스타일
+http://221.141.80.116:9981/stream/channelid/2075190038
+#EXTINF:-1 group-title="생방송(의정부)",SBSFunE
+http://221.141.80.116:9981/stream/channelid/1234527440
+#EXTINF:-1 group-title="생방송(의정부)",MBC에브리원
+http://221.141.80.116:9981/stream/channelid/1734548909
+#EXTINF:-1 group-title="생방송(의정부)",채널차이나
+http://221.141.80.116:9981/stream/channelid/1289567451
+#EXTINF:-1 group-title="생방송(의정부)",KBS Joy
+http://221.141.80.116:9981/stream/channelid/1266444142
+#EXTINF:-1 group-title="생방송(의정부)",FS-TV
+http://221.141.80.116:9981/stream/channelid/1533202945
+#EXTINF:-1 group-title="생방송(의정부)",FTV
+http://221.141.80.116:9981/stream/channelid/469372962
+#EXTINF:-1 group-title="생방송(의정부)",O tvN
+http://221.141.80.116:9981/stream/channelid/421027209
+#EXTINF:-1 group-title="생방송(의정부)",트랜디
+http://221.141.80.116:9981/stream/channelid/1830062477
+#EXTINF:-1 group-title="생방송(의정부)",MBC ON
+http://221.141.80.116:9981/stream/channelid/716927947
+#EXTINF:-1 group-title="생방송(의정부)",코미디TV
+http://221.141.80.116:9981/stream/channelid/657363359
+#EXTINF:-1 group-title="생방송(의정부)",드라맥스
+http://221.141.80.116:9981/stream/channelid/490792449
+#EXTINF:-1 group-title="생방송(의정부)",K-Star
+http://221.141.80.116:9981/stream/channelid/1220092991
+#EXTINF:-1 group-title="생방송(의정부)",TV조선2
+http://221.141.80.116:9981/stream/channelid/2061007678
+#EXTINF:-1 group-title="생방송(의정부)",KBSN스포츠
+http://221.141.80.116:9981/stream/channelid/1584671130
+#EXTINF:-1 group-title="생방송(의정부)",MBC스포츠+
+http://221.141.80.116:9981/stream/channelid/812785025
+#EXTINF:-1 group-title="생방송(의정부)",SBS스포츠
+http://221.141.80.116:9981/stream/channelid/69341572
+#EXTINF:-1 group-title="생방송(의정부)",JTBC3폭스
+http://221.141.80.116:9981/stream/channelid/477509333
+#EXTINF:-1 group-title="생방송(의정부)",JTBC골프
+http://221.141.80.116:9981/stream/channelid/597760403
+#EXTINF:-1 group-title="생방송(의정부)",채널 뷰
+http://221.141.80.116:9981/stream/channelid/137342899
+#EXTINF:-1 group-title="생방송(의정부)",하이라이트TV
+http://221.141.80.116:9981/stream/channelid/175506654
+#EXTINF:-1 group-title="생방송(의정부)",CBS
+http://221.141.80.116:9981/stream/channelid/186028655
+#EXTINF:-1 group-title="생방송(의정부)",CTS
+http://221.141.80.116:9981/stream/channelid/1447008870
+#EXTINF:-1 group-title="생방송(의정부)",가톨릭평화방송
+http://221.141.80.116:9981/stream/channelid/349613946
+#EXTINF:-1 group-title="생방송(의정부)",BTN불교TV
+http://221.141.80.116:9981/stream/channelid/744286203
+#EXTINF:-1 group-title="생방송(의정부)",EBS플러스1
+http://221.141.80.116:9981/stream/channelid/1556481317
+#EXTINF:-1 group-title="생방송(의정부)",온게임넷
+http://221.141.80.116:9981/stream/channelid/828048100
+#EXTINF:-1 group-title="생방송(의정부)",JTBC2
+http://221.141.80.116:9981/stream/channelid/581975855
+#EXTINF:-1 group-title="생방송(의정부)",바둑TV
+http://221.141.80.116:9981/stream/channelid/1865362672
+#EXTINF:-1 group-title="생방송(의정부)",육아TV
+http://221.141.80.116:9981/stream/channelid/2114721158
+#EXTINF:-1 group-title="생방송(의정부)",드라마큐브
+http://221.141.80.116:9981/stream/channelid/571202805
+#EXTINF:-1 group-title="생방송(의정부)",오엔티
+http://221.141.80.116:9981/stream/channelid/1747272531
+#EXTINF:-1 group-title="생방송(의정부)",KBS드라마
+http://221.141.80.116:9981/stream/channelid/954688116
+#EXTINF:-1 group-title="생방송(의정부)",헬스메디TV
+http://221.141.80.116:9981/stream/channelid/1465453661
+#EXTINF:-1 group-title="생방송(의정부)",YTN사이언스
+http://221.141.80.116:9981/stream/channelid/285022418
+#EXTINF:-1 group-title="생방송(의정부)",SBS골프
+http://221.141.80.116:9981/stream/channelid/2002811022
+#EXTINF:-1 group-title="생방송(의정부)",복지TV
+http://221.141.80.116:9981/stream/channelid/209878800
+#EXTINF:-1 group-title="생방송(의정부)",채널아이
+http://221.141.80.116:9981/stream/channelid/1022441575
+#EXTINF:-1 group-title="생방송(의정부)",GTV
+http://221.141.80.116:9981/stream/channelid/2020046980
+#EXTINF:-1 group-title="생방송(의정부)",폴라리스TV
+http://221.141.80.116:9981/stream/channelid/1612363997
+#EXTINF:-1 group-title="생방송(의정부)",쿠키TV
+http://221.141.80.116:9981/stream/channelid/156414480
+#EXTINF:-1 group-title="생방송(의정부)",인디필름
+http://221.141.80.116:9981/stream/channelid/842129619
+#EXTINF:-1 group-title="생방송(의정부)",동아TV
+http://221.141.80.116:9981/stream/channelid/171030928
+#EXTINF:-1 group-title="생방송(의정부)",마운틴TV
+http://221.141.80.116:9981/stream/channelid/749768665
+#EXTINF:-1 group-title="생방송(의정부)",애니박스
+http://221.141.80.116:9981/stream/channelid/1644791183
+#EXTINF:-1 group-title="생방송(의정부)",어린이TV
+http://221.141.80.116:9981/stream/channelid/1445877307
+#EXTINF:-1 group-title="생방송(의정부)",아이넷
+http://221.141.80.116:9981/stream/channelid/243420870
+#EXTINF:-1 group-title="생방송(의정부)",골프채널코리아
+http://221.141.80.116:9981/stream/channelid/1127510141
+#EXTINF:-1 group-title="생방송(의정부)",MBC뮤직
+http://221.141.80.116:9981/stream/channelid/1580695884
+#EXTINF:-1 group-title="생방송(의정부)",소상공인방송
+http://221.141.80.116:9981/stream/channelid/1073222995
+#EXTINF:-1 group-title="생방송(의정부)",SPOTV
+http://221.141.80.116:9981/stream/channelid/1129856404
+#EXTINF:-1 group-title="생방송(의정부)",HQ플러스
+http://221.141.80.116:9981/stream/channelid/1225179355
+#EXTINF:-1 group-title="생방송(의정부)",더무비
+http://221.141.80.116:9981/stream/channelid/825303070
+#EXTINF:-1 group-title="생방송(의정부)",방송대학
+http://221.141.80.116:9981/stream/channelid/826428291
+#EXTINF:-1 group-title="생방송(의정부)",KTV국민방송
+http://221.141.80.116:9981/stream/channelid/950678338
+#EXTINF:-1 group-title="생방송(의정부)",국회방송
+http://221.141.80.116:9981/stream/channelid/919102632
